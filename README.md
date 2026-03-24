@@ -41,7 +41,8 @@
 ⚉ About Me — Cursed Energy Flow
 <div align="center">
 ╔══════════════════════════════════════════════════════════════════╗
-║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
+
+  ║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
 ║  ⚉  Firebase Cursed Technique       ███████████████░░░░░  90%  ║
 ║  ⚉  BLE Reverse Cursed Energy       ██████████████░░░░░░  85%  ║
 ║  ⚉  API Black Flash                 ███████████████░░░░░  90%  ║
