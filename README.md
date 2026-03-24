@@ -33,24 +33,9 @@ I build real-world applications — not just tutorials.
 </p>
 
 ---
-
-## 🚗 My Projects
-
-### 🚗 AIVIA
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1607863680198-23d4b2565df0?w=800" width="500"/>
-</p>
-
-- Online booking system
-- Firebase (Auth + Firestore)
-- Price calculation logic
-- Web + Mobile (WebView)
-
----
-
 ### 📊 Bluetooth Scale App
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800" width="500"/>
+  <img src="[https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?](https://sl.bing.net/ghERDwm7dqS)" width="500"/>
 </p>
 
 - BLE device connection
