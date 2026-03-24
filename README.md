@@ -36,7 +36,7 @@ I build real-world applications — not just tutorials.
 
 ## 🚗 My Projects
 
-### 🚗 CarWash App
+### 🚗 AIVIA
 <p align="center">
   <img src="https://images.unsplash.com/photo-1607863680198-23d4b2565df0?w=800" width="500"/>
 </p>
