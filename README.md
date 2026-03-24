@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=◈+ARCNOSIXTA+◈&fontSize=70&color=0:8B0000,50:000000,100:4B0082&stroke=DC143C&strokeWidth=4&animation=twinkling&fontColor=ffffff&fontAlignY=45"/>
 </p>
 
-<!-- Иероглифы проклятия -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=DC143C&center=true&vCenter=true&width=600&lines=呪術廻戦;JUJUTSU+KAISEN+STYLE"/>
-</p>
-
 <!-- Разделитель Домена -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=8B0000,000000,4B0082"/>
