@@ -1,147 +1,157 @@
-<!-- Киберпанк шапка с глитч-эффектом -->
+<!-- Шапка в стиле Домена -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ARCNOSIXTA&fontSize=80&color=0:FF0040,100:0000FF&stroke=FF0040&strokeWidth=3&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=◈+ARCNOSIXTA+◈&fontSize=70&color=0:8B0000,50:000000,100:4B0082&stroke=DC143C&strokeWidth=4&animation=twinkling&fontColor=ffffff&fontAlignY=45"/>
 </p>
 
-<!-- Анимированный typing с красно-синей темой -->
+<!-- Иероглифы проклятия -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&pause=800&color=FF0040&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%94%A5;Web+Developer+%F0%9F%92%A5;Firebase+Architect+%E2%9A%A1;BLE+Integration+Specialist+%F0%9F%94%B7;Building+The+Future+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=DC143C&center=true&vCenter=true&width=600&lines=呪術廻戦;JUJUTSU+KAISEN+STYLE"/>
 </p>
 
-<!-- Неоновый разделитель -->
+<!-- Разделитель Домена -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=8B0000,000000,4B0082"/>
+</p>
+
+<!-- Техника и роль -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=DC143C&center=true&vCenter=true&width=800&lines=▣+Special+Grade+Developer+▣;⚉+Domain+Expansion:+Firebase+⚉;⚉+Cursed+Technique:+Flutter+⚉" />
+</p>
+
+<!-- Бейджи техники -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚉_GRADE-SPECIAL-8B0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚉_TECHNIQUE-FLUTTER-DC143C?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚉_DOMAIN-FIREBASE-4B0082?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚉_CURSED+ENERGY-BLE-8B0000?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=000000"/>
+</p>
+
+<!-- Разделитель пальцев -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- Доминирующие красные бейджи с синим акцентом -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_FLUTTER-FF0040?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0000FF"/>
-  <img src="https://img.shields.io/badge/⚡_FIREBASE-FF0040?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0000FF"/>
-  <img src="https://img.shields.io/badge/🔷_BLE_TECH-FF0040?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=0000FF"/>
-  <img src="https://img.shields.io/badge/🌐_FULLSTACK-FF0040?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0000FF"/>
-</p>
-
-<!-- Анимированная волна -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF0040,0000FF,FF0040"/>
-</p>
-
-## 🔴 About Me
+## ⚉ About Me — Cursed Energy Flow
 
 <div align="center">
-╔══════════════════════════════════════════════════════════════╗
-║  📱  Flutter Apps (Android/iOS)    ████████████████████  95% ║
-║  🔥  Firebase Backend              ███████████████████░  90% ║
-║  🔷  BLE Device Integration        ██████████████████░░  85% ║
-║  ⚡  API & Backend Logic           ███████████████████░  90% ║
-║  🚀  Production-Ready Solutions    ████████████████████  95% ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
+║  ⚉  Firebase Cursed Technique       ███████████████░░░░░  90%  ║
+║  ⚉  BLE Reverse Cursed Energy       ██████████████░░░░░░  85%  ║
+║  ⚉  API Black Flash                 ███████████████░░░░░  90%  ║
+║  ⚉  Production Six Eyes             ████████████████░░░░  95%  ║
+╚══════════════════════════════════════════════════════════════════╝
 plain
 Copy
 
 </div>
 
-<!-- Неоновый разделитель -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- Чёрная вспышка -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=80&color=000000,8B0000,000000"/>
+</p>
 
-## 🔥 Tech Stack — Red Edition
+## ⚉ Innate Technique — Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,js,html,css&theme=dark&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-FF0040?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-FF0040?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FF0040?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bluetooth-0000FF?style=flat-square&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-FF0040?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-0000FF?style=flat-square&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-8B0000?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-DC143C?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-4B0082?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bluetooth-000000?style=flat-square&logo=bluetooth&logoColor=DC143C"/>
+  <img src="https://img.shields.io/badge/Android-8B0000?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-4B0082?style=flat-square&logo=ios&logoColor=white"/>
 </p>
 
-<!-- Двойная неоновая линия -->
+<!-- Разделитель проклятия -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF0040"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0000FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B0000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=4B0082"/>
 </p>
 
-## 🎯 Featured Project
+## ⚉ Featured Technique — Bluetooth Scale Domain
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://tse3.mm.bing.net/th/id/OIP.yuIZEqgl98Va8Td3l9755gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="400" style="border-radius: 10px; border: 3px solid #FF0040;"/>
+      <img src="https://tse3.mm.bing.net/th/id/OIP.yuIZEqgl98Va8Td3l9755gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="400" style="border-radius: 15px; border: 4px solid #8B0000; box-shadow: 0 0 20px #DC143C;"/>
     </td>
     <td align="left" width="50%">
-      <h3 align="center">🔴 Bluetooth Scale App</h3>
+      <h3 align="center">◈ Domain: Bluetooth Scale ◈</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-FF0040?style=for-the-badge&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/BLE-0000FF?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Technique-FLUTTER-8B0000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/Energy-BLE-4B0082?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=000000"/>
       </p>
       <ul>
-        <li>⚡ Real-time BLE connection</li>
-        <li>📊 Live weight data streaming</li>
-        <li>🎨 Custom Flutter UI</li>
-        <li>🔧 Lefu API Integration</li>
+        <li>⚉ Real-time Cursed Energy Connection</li>
+        <li>⚉ Weight Data Black Flash</li>
+        <li>⚉ Custom Flutter Domain UI</li>
+        <li>⚉ Lefu API Innate Technique</li>
       </ul>
     </td>
   </tr>
 </table>
 
+<!-- Разделитель полной силы -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:8B0000,100:000000&section=header&animation=twinkling"/>
+</p>
 
-<!-- Зигзаг разделитель -->
-
-## 📊 GitHub Stats — Red Alert
+## ⚉ Battle Stats — Cursed Energy Visualization
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=0d0000&title_color=FF0040&icon_color=0000FF&text_color=ffffff&border_color=FF0040" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=0d0000&stroke=FF0040&fire=FF0040&ring=0000FF&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=DC143C&icon_color=8B0000&text_color=ffffff&border_color=8B0000" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=0a0a0a&stroke=DC143C&fire=8B0000&ring=4B0082&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=0d0000&title_color=FF0040&text_color=ffffff&border_color=FF0040" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=DC143C&text_color=ffffff&border_color=8B0000" height="150"/>
 </p>
 
-<!-- Активность граф -->
+<!-- Граф активности проклятия -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=redical&hide_border=true&area=true&color=FF0040&line=0000FF&point=ffffff&bg_color=0d0000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=redical&hide_border=true&area=true&color=8B0000&line=DC143C&point=4B0082&bg_color=0a0a0a" />
 </p>
 
-<!-- Трофеи -->
+<!-- Трофеи специального уровня -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=DC143C"/>
 </p>
 
-<!-- Неоновый разделитель -->
+<!-- Разделитель перед контактами -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF0040,0000FF,FF0040"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=8B0000,000000,4B0082"/>
 </p>
 
-## 🔗 Connect With Me
+## ⚉ Contact — Cursed Energy Link
 
 <p align="center">
   <a href="https://t.me/arcnosixta">
-    <img src="https://img.shields.io/badge/TELEGRAM-FF0040?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0000FF"/>
+    <img src="https://img.shields.io/badge/TELEGRAM-8B0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:arcnosixta@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF0040?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0000FF"/>
+    <img src="https://img.shields.io/badge/EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://github.com/arcnosixta">
-    <img src="https://img.shields.io/badge/GITHUB-FF0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0000FF"/>
+    <img src="https://img.shields.io/badge/GITHUB-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
-<!-- Просмотры профиля -->
+<!-- Просмотры домена -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arcnosixta&label=PROFILE+VIEWS&color=FF0040&style=for-the-badge&logo=eye&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=arcnosixta&label=DOMAIN+VISITS&color=8B0000&style=for-the-badge&logo=eye&logoColor=white"/>
 </p>
 
-<!-- Финальная волна -->
+<!-- Финальная печать -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF0040,50:0000FF,100:FF0040&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:8B0000,100:4B0082&section=footer&animation=twinkling"/>
 </p>
 
-<!-- Философия -->
+<!-- Философия дзюдзюцу -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&width=600&lines=Build.+Break.+Fix.+Repeat.+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=24&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=建て直す;Build.+Break.+Fix.+Repeat.+%E2%9A%89" />
 </p>
