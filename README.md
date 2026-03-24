@@ -42,12 +42,17 @@
 <div align="center">
 ╔══════════════════════════════════════════════════════════════════╗
 
-  ║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
-║  ⚉  Firebase Cursed Technique       ███████████████░░░░░  90%  ║
-║  ⚉  BLE Reverse Cursed Energy       ██████████████░░░░░░  85%  ║
-║  ⚉  API Black Flash                 ███████████████░░░░░  90%  ║
-║  ⚉  Production Six Eyes             ████████████████░░░░  95%  ║
-╚══════════════════════════════════════════════════════════════════╝
+      ║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
+
+    ║  ⚉  Firebase Cursed Technique       ███████████████░░░░░  90%  ║
+
+    ║  ⚉  BLE Reverse Cursed Energy       ██████████████░░░░░░  85%  ║
+
+    ║  ⚉  API Black Flash                 ███████████████░░░░░  90%  ║
+
+    ║  ⚉  Production Six Eyes             ████████████████░░░░  95%  ║
+
+    ╚══════════════════════════════════════════════════════════════════╝
 </div>
 ⚉ Innate Technique — Tech Stack
 <p align="center">
