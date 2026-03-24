@@ -1,19 +1,19 @@
-<!-- DOMAIN EXPANSION HEADER -->
+<!-- РАСШИРЕНИЕ ТЕРРИТОРИИ СУКУНЫ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=◈+ARCNOSIXTA+◈&fontSize=70&color=0:8B0000,50:000000,100:4B0082&stroke=DC143C&strokeWidth=4&animation=twinkling&fontColor=ffffff&fontAlignY=45"/>
+  <img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
 </p>
 
-<!-- Иероглифы Домена -->
+<!-- Имя под доменом -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=45&duration=1&pause=2000&color=DC143C&center=true&vCenter=true&width=600&lines=領域展開;DOMAIN+EXPANSION"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=DC143C&center=true&vCenter=true&width=800&lines=◈+ARCNOSIXTA+◈" />
 </p>
 
-<!-- Гифка раскрытия домена -->
+<!-- Иероглифы -->
 <p align="center">
-  <img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="600" style="border-radius: 10px; border: 3px solid #8B0000; box-shadow: 0 0 30px #DC143C;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=8B0000&center=true&vCenter=true&width=600&lines=領域展開;伏魔御厨子"/>
 </p>
 
-<!-- Разделитель Домена -->
+<!-- Разделитель -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=8B0000,000000,4B0082"/>
 </p>
@@ -98,9 +98,7 @@ Copy
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:8B0000,100:000000&section=header&animation=twinkling"/>
-</p>
+<!-- УБРАН ВОЛНИСТЫЙ РАЗДЕЛИТЕЛЬ -->
 
 ## ⚉ Battle Stats — Cursed Energy
 
