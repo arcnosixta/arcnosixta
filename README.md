@@ -35,7 +35,7 @@ I build real-world applications — not just tutorials.
 ---
 ### 📊 Bluetooth Scale App
 <p align="center">
-  <img src="https://sl.bing.net/f7WvmymhCkC](https://th.bing.com/th/id/OIP.V8OwfqsL7j6h1gpM0uxYKQHaHa?w=186&h=186&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3))" width="500"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.yuIZEqgl98Va8Td3l9755gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="500"/>
 </p>
 
 - BLE device connection
