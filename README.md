@@ -7,7 +7,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=DC143C&center=true&vCenter=true&width=800&lines=◈+ARCNOSIXTA+◈" />
 </p>
+<!-- Максимальная ширина -->
+<img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
 
+<!-- Годжо -->
+<img src="https://media.tenor.com/qJ5eF-wJ0XwAAAAC/gojo-domain-expansion.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
+
+<!-- Махито -->
+<img src="https://media.tenor.com/8Fy5B8R8XjAAAAAC/mahito-domain-expansion.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
 <!-- Иероглифы -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=8B0000&center=true&vCenter=true&width=600&lines=領域展開;伏魔御厨子"/>
