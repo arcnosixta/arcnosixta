@@ -40,8 +40,6 @@
 </p>
 ⚉ About Me — Cursed Energy Flow
 <div align="center">
-plain
-Copy
 ╔══════════════════════════════════════════════════════════════════╗
 ║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
 ║  ⚉  Firebase Cursed Technique       ███████████████░░░░░  90%  ║
