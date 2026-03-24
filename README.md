@@ -89,9 +89,6 @@ Copy
 </table>
 
 <!-- Зигзаг разделитель -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=FF0040,0000FF,FF0040"/>
-</p>
 
 ## 📊 GitHub Stats — Red Alert
 
