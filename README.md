@@ -39,7 +39,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 ⚉ About Me — Cursed Energy Flow
-
+<div align="center">
+plain
+Copy
 ╔══════════════════════════════════════════════════════════════════╗
 ║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
 ║  ⚉  Firebase Cursed Technique       ███████████████░░░░░  90%  ║
@@ -47,12 +49,7 @@
 ║  ⚉  API Black Flash                 ███████████████░░░░░  90%  ║
 ║  ⚉  Production Six Eyes             ████████████████░░░░  95%  ║
 ╚══════════════════════════════════════════════════════════════════╝
-plain
-Copy
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=80&color=000000,8B0000,000000"/>
-</p>
+</div>
 ⚉ Innate Technique — Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,js,html,css&theme=dark&perline=5" />
