@@ -1,274 +1,127 @@
-
-readme_content = """<div align="center">
-
-<img src="https://img.shields.io/badge/境界-BLEACH-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJ2MjBNMiAxMmgxOSIvPjwvc3ZnPg==&logoColor=white" />
-
-# ⚔️ 鏡花水月 · KYŌKA SUIGETSU ⚔️
-
-**「汝、ひとりの死神を見たことか？」**
-
-*"Have you ever seen a single Shinigami?"*
-
-</div>
-
----
-
-## 🌙 破面の王 (King of Hueco Mundo)
-
-> *「恐れることはない。私はお前を殺さない。お前には価値があるからだ。」*
-> 
-> *"Fear not. I shall not kill you. You have value."*
-
+<!-- РАСШИРЕНИЕ ТЕРРИТОРИИ СУКУНЫ -->
+<p align="center">
+  <img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
+</p>
+<!-- Имя под доменом -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=DC143C&center=true&vCenter=true&width=800&lines=◈+ARCNOSIXTA+◈" />
+</p>
+<!-- Грабница зла (Malevolent Shrine) -->
+<p align="center">
+  <img src="https://wallpaperaccess.com/full/8675728.png" width="80%" style="border-radius: 15px; border: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
+</p>
+<!-- Максимальная ширина -->
+<img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
+<!-- Годжо -->
+<img src="https://media.tenor.com/qJ5eF-wJ0XwAAAAC/gojo-domain-expansion.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
+<!-- Махито -->
+<img src="https://media.tenor.com/8Fy5B8R8XjAAAAAC/mahito-domain-expansion.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #8B0000; box-shadow: 0 0 50px #DC143C;"/>
+<!-- Иероглифы -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=8B0000&center=true&vCenter=true&width=600&lines=領域展開;伏魔御厨子"/>
+</p>
+<!-- Разделитель -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=8B0000,000000,4B0082"/>
+</p>
+<!-- Роли -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=DC143C&center=true&vCenter=true&width=800&lines=▣+Special+Grade+Developer+▣;⚉+Cursed+Technique:+Flutter+⚉;⚉+Reverse+Technique:+Firebase+⚉" />
+</p>
+<!-- Бейджи -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚉_GRADE-SPECIAL-8B0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚉_TECHNIQUE-FLUTTER-DC143C?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚉_DOMAIN-FIREBASE-4B0082?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚉_CURSED+ENERGY-BLE-8B0000?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=000000"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+⚉ About Me — Cursed Energy Flow
 <div align="center">
-
-| Rank | Espada #1 | Aspect of Death | Solitude |
-|:----:|:---------:|:---------------:|:--------:|
-| Zanpakutō | 鏡花水月 (Kyōka Suigetsu) | Shikai | 砕けよ、鏡花水月 |
-| Bankai | — | Type | Illusion-type |
-
+    
+    ╔══════════════════════════════════════════════════════════════════╗
+    ║  ⚉  Flutter Domain Expansion        ████████████████░░░░  95%  ║
+    ║  ⚉  Firebase Cursed Technique       ███████████████░░░░░  90%  ║
+    ║  ⚉  BLE Reverse Cursed Energy       ██████████████░░░░░░  85%  ║
+    ║  ⚉  API Black Flash                 ███████████████░░░░░  90%  ║
+    ║  ⚉  Production Six Eyes             ████████████████░░░░  95%  ║
+    ╚══════════════════════════════════════════════════════════════════╝
 </div>
-
----
-
-## 🎭 完全催眠 (Kanzen Saimin)
-
-<div align="center">
-
-![Aizen Gif](https://media.tenor.com/S8_V9lNMc3IAAAAC/aizen-bleach.gif)
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  支配者の右目に触れし者、鏡花水月の幻に囚われる。            │
-│  "Those who touch the ruler's right eye are trapped         │
-│   in the illusion of Kyōka Suigetsu."                       │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### ✨ Abilities
-
-| Ability | Description | Power Level |
-|:-------:|:------------|:-----------:|
-| 🌀 Hypnosis | Controls the five senses to the point where victims cannot discern reality | ████████████ 100% |
-| 🌊 Water & Moon | Like the flower reflected in the mirror and the moon on the water's surface | ████████████ 100% |
-| 👁️ Aizen's Gaze | Once seen, the hypnosis is absolute and eternal | ████████████ 100% |
-| ⚡ Reiatsu Suppression | Hides spiritual pressure completely | ███████████░ 95% |
-
----
-
-## 🏰 Las Noches Architecture
-
-<div align="center">
-
-![Las Noches](https://media.tenor.com/8QkKf1lS9ZIAAAAC/las-noches-bleach.gif)
-
-</div>
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║      ┌──────────┐         ┌──────────┐                       ║
-║      │  TOWER   │═════════│  THRONE  │                       ║
-║      │    #1    │         │   ROOM   │                       ║
-║      └────┬─────┘         └────┬─────┘                       ║
-║           │                    │                              ║
-║      ┌────┴─────┐         ┌────┴─────┐                       ║
-║      │  ESPADA  │═════════│  REIATSU │                       ║
-║      │ QUARTERS │         │   CORE   │                       ║
-║      └──────────┘         └──────────┘                       ║
-║                                                               ║
-║           ☠️ 虚夜宮 (LAS NOCHES) ☠️                            ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🌑 崩玉 (Hōgyoku)
-
-<div align="center">
-
-![Hogyoku](https://media.tenor.com/LgN4q2kJ8YAAAAAC/aizen-hogyoku.gif)
-
-</div>
-
-<div align="center">
-
-| Evolution Stage | Description | Status | Visual |
-|:---------------:|:------------|:------:|:------:|
-| 🔵 Sealed | Hidden within Rukia's Gigai | ✅ Complete | 💠 |
-| 🟣 Awakened | Fused with Aizen's soul | ✅ Complete | 🔮 |
-| ⚫ Transcended | Breaking the boundary between Shinigami and Hollow | ✅ Complete | 👁️ |
-
-</div>
-
----
-
-## 📜 百年前の真実 (Truth of 100 Years Ago)
-
-<div align="center">
-
-![Aizen Power](https://media.tenor.com/vbC1gB0J3EMAAAAC/aizen-sosuke-aizen.gif)
-
-</div>
-
-> *「私は神になりたいのではない。神を超えたいのだ。」*
->
-> *"I do not wish to become God. I wish to surpass Him."*
-
-### Timeline of Ascension
-
-| Phase | Event | Location | Year |
-|:-----:|:------|:---------|:----:|
-| 🎓 | 5th Division Captain | Soul Society | -110 |
-| 🔬 | Researcher of Hōgyoku | S.R.D.I. | -101 |
-| 💀 | Faked Death | Seireitei | -1 |
-| 👑 | Created Espada | Hueco Mundo | 0 |
-| ⚔️ | Attacked Karakura | Human World | +1 |
-| ⛓️ | Sealed by Ichigo | Muken | +2 |
-
----
-
-## 🎨 Visual Identity
-
-<div align="center">
-
-| Element | Value | Preview |
-|:-------:|:-----:|:-------:|
-| Primary | `#7C3AED` | ![Violet](https://via.placeholder.com/60x30/7C3AED/7C3AED?text=+) |
-| Secondary | `#1E1B4B` | ![Midnight](https://via.placeholder.com/60x30/1E1B4B/1E1B4B?text=+) |
-| Accent | `#C4B5FD` | ![Spirit](https://via.placeholder.com/60x30/C4B5FD/C4B5FD?text=+) |
-| Text | `#F5F3FF` | ![Moonlight](https://via.placeholder.com/60x30/F5F3FF/F5F3FF?text=+) |
-| Warning | `#EF4444` | ![Blood](https://via.placeholder.com/60x30/EF4444/EF4444?text=+) |
-
-</div>
-
----
-
-## ⚔️ 戦闘データ (Combat Statistics)
-
-<div align="center">
-
-![Aizen Fight](https://media.tenor.com/QX_6whJo0qMAAAAC/aizen-bleach.gif)
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  REIATSU     ████████████████████████████████████ 9999+    ║
-║  ZANJUTSU    ████████████████████████████████████ MASTER   ║
-║  HAKUDA      ████████████████████████████████░░░░░ EXPERT   ║
-║  HOHŌ        ████████████████████████████████████ FLASH GOD ║
-║  KIDŌ        ████████████████████████████████████ GRANDMASTER║
-║  INTELLECT   ████████████████████████████████████ TRANSCENDENT ║
-║  CHARISMA    ████████████████████████████████████ ABSOLUTE   ║
-║  ARROGANCE   ████████████████████████████████████ MAXIMUM  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🌟 名言集 (Famous Quotes)
-
-<div align="center">
-
-![Aizen Smile](https://media.tenor.com/mtKmrP8m9XwAAAAC/aizen-sosuke.gif)
-
-</div>
-
-| Quote JP | Quote EN | Context |
-|:---------|:---------|:--------|
-| 「あまりにも強大な力は、時として自分の目で見ることすら許されない。」 | "Power so vast that sometimes one is not even allowed to see it with their own eyes." | To Ichigo |
-| 「絶望とは、完全に目を開いた状態である。」 | "Despair is a state of having one's eyes fully open." | To Shinji |
-| 「戦いとは、欺き合いである。」 | "Battle is a matter of mutual deception." | Philosophy |
-| 「私は神になりたいのではない。神を超えたいのだ。」 | "I do not wish to become God. I wish to surpass Him." | Ambition |
-| 「鏡に映る花の如く、水に映る月の如く。」 | "Like the flower reflected in the mirror, like the moon reflected on the water's surface." | Kyōka Suigetsu |
-
----
-
-## 🔮 鏡花水月の解放 (Release Command)
-
-<div align="center">
-
-![Kyoka Suigetsu](https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif)
-
-### **砕けよ、鏡花水月**
-### *"Shatter, Kyōka Suigetsu"*
-
-<img src="https://img.shields.io/badge/✦✦✦-8B5CF6?style=for-the-badge" />
-
-</div>
-
----
-
-## 🎴 十刃 (Espada Roster)
-
-<div align="center">
-
-| # | Name | Aspect | Status |
-|:-:|:-----|:-------|:------:|
-| 1 | Coyote Starrk | Solitude | 💀 |
-| 2 | Baraggan Louisenbairn | Aging | 💀 |
-| 3 | Tier Harribel | Sacrifice | ✅ |
-| 4 | Ulquiorra Cifer | Emptiness | 💀 |
-| 5 | Nnoitra Gilga | Despair | 💀 |
-| 6 | Grimmjow Jaegerjaquez | Destruction | ✅ |
-
-</div>
-
----
-
-## 👁️ 最終融合 (Final Fusion)
-
-<div align="center">
-
-![Aizen Transformation](https://media.tenor.com/3J8Kj8Z8-8IAAAAC/aizen-bleach.gif)
-
-![Aizen Final](https://media.tenor.com/8QkKf1lS9ZIAAAAC/aizen-sosuke.gif)
-
-</div>
-
-| Form | Appearance | Power |
-|:-----|:-----------|:------|
-| Standard | Glasses, Brown Hair | Captain Level |
-| Post-Hōgyoku | Hair Slicked Back | Transcendent |
-| Chrysalis | White Cocoon | Evolving |
-| First Fusion | White Armor | Near-God |
-| Second Fusion | Butterfly Wings | Godlike |
-| Final Form | Monster | Ultimate |
-
----
-
-<div align="center">
-
-**「これが藍染惣右介の力だ。」**
-
-*"This is the power of Sōsuke Aizen."*
-
-<img src="https://img.shields.io/badge/Status-Sealed_20,000_Years-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Threat_Level-Transcendent-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Location-Muken-8B5CF6?style=flat-square" />
-
-</div>
-
----
-
-<div align="center">
-
-![Aizen End](https://media.tenor.com/vbC1gB0J3EMAAAAC/aizen-sosuke-aizen.gif)
-
-*「鏡に映る花の如く、水に映る月の如く。」*
-
-*"Like the flower reflected in the mirror, like the moon reflected on the water's surface."*
-
-</div>
-"""
-
-# Save the file
-output_path = "/mnt/agents/output/README_Aizen.readme"
-with open(output_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README файл обновлён!")
-print(f"Путь: {output_path}")
-print(f"Размер: {len(readme_content)} символов")
+⚉ Innate Technique — Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,js,html,css&theme=dark&perline=5" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-8B0000?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-DC143C?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-4B0082?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bluetooth-000000?style=flat-square&logo=bluetooth&logoColor=DC143C"/>
+  <img src="https://img.shields.io/badge/Android-8B0000?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-4B0082?style=flat-square&logo=ios&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B0000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=4B0082"/>
+</p>
+⚉ Featured Technique — Bluetooth Scale Domain
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://tse3.mm.bing.net/th/id/OIP.yuIZEqgl98Va8Td3l9755gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="350" style="border-radius: 15px; border: 4px solid #8B0000; box-shadow: 0 0 25px #DC143C;"/>
+    </td>
+    <td align="left" width="50%">
+      <h3 align="center">◈ Domain: Bluetooth Scale ◈</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Technique-FLUTTER-8B0000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/Energy-BLE-4B0082?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=000000"/>
+      </p>
+      <ul>
+        <li>⚉ Real-time Cursed Energy Connection</li>
+        <li>⚉ Weight Data Black Flash</li>
+        <li>⚉ Custom Flutter Domain UI</li>
+        <li>⚉ Lefu API Innate Technique</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+⚉ Battle Stats — Cursed Energy
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=DC143C&icon_color=8B0000&text_color=ffffff&border_color=8B0000" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=0a0a0a&stroke=DC143C&fire=8B0000&ring=4B0082&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=DC143C&text_color=ffffff&border_color=8B0000" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=redical&hide_border=true&area=true&color=8B0000&line=DC143C&point=4B0082&bg_color=0a0a0a" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=DC143C"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=8B0000,000000,4B0082"/>
+</p>
+⚉ Contact — Cursed Energy Link
+<p align="center">
+  <a href="https://t.me/arcnosixta">
+    <img src="https://img.shields.io/badge/TELEGRAM-8B0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="mailto:arcnosixta@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://github.com/arcnosixta">
+    <img src="https://img.shields.io/badge/GITHUB-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arcnosixta&label=DOMAIN+VISITS&color=8B0000&style=for-the-badge&logo=eye&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:8B0000,100:4B0082&section=footer&animation=twinkling"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=24&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=建て直す;Build.+Break.+Fix.+Repeat.+%E2%9A%89" />
+</p>
