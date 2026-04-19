@@ -1,27 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:0d0015,30:2d0060,70:1a0040,100:0d0015&text=ARCNOSIXTA&fontColor=b388ff&fontSize=55&fontAlign=50&fontAlignY=50&desc=ソスケ・藍染%20·%20Special%20Grade%20Developer&descSize=16&descFontColor=7c4dff&animation=fadeIn&stroke=7c4dff&strokeWidth=1)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=2500&pause=1200&color=9C6FFF&center=true&vCenter=true&width=750&lines=%E2%96%88%E2%96%88%E2%96%88+KYOUKA+SUIGETSU+%E2%96%88%E2%96%88%E2%96%88;Perfection+was+never+the+goal.+Transcendence+was.;I+did+not+fall+from+grace.+I+abandoned+it.;%E2%96%88%E2%96%88%E2%96%88+COMPLETE+HYPNOSIS+%E2%96%88%E2%96%88%E2%96%88)](https://git.io/typing-svg)
-
-</div>
+![](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0010,30:1a0035,60:2d0060,100:0a0010&text=藍%20染&fontColor=7c4dff&fontSize=130&fontAlign=25&fontAlignY=55&desc=ARCNOSIXTA&descSize=38&descFontColor=b388ff&descAlign=62&descAlignY=52&stroke=4a0080&strokeWidth=2&animation=fadeIn)
 
 <br>
 
 <div align="center">
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░  ▄████████  ██████████   ███████████  ████████████  ██████  ░
-░  ░░░░░░░░  ░░░░░░░░░░   ░░░░░░░░░░░  ░░░░░░░░░░░░  ░░░░░░  ░
-░       WHO AM I ?                                             ░
-░       → Mobile Developer  [ Flutter / Dart ]                ░
-░       → Backend Weaver    [ Firebase / REST ]               ░
-░       → Signal Hunter     [ BLE / Bluetooth ]               ░
-░       → Shadow Architect  [ Android / iOS ]                 ░
-░       → Codebreaker       [ Python / Shell ]                ░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+[![](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=15&duration=2000&pause=800&color=4A0080&center=true&vCenter=true&width=800&lines=支%E9%85%8D%E3%81%99%E3%82%8B%E3%81%8B%E3%80%81%E6%BB%85%E3%81%B3%E3%82%8B%E3%81%8B%E3%80%82%E3%81%9D%E3%82%8C%E3%81%A0%E3%81%91%E3%81%A0%E3%80%82;Dominate+or+perish.+Nothing+in+between.;%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%80%81%E7%A5%9E%E3%81%AF%E3%81%84%E3%81%AA%E3%81%84%E3%80%82%E5%83%95%E3%81%8C%E3%81%84%E3%82%8B%E3%80%82;There+are+no+gods+in+this+world.+Only+me.)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,19 +14,40 @@
 
 <div align="center">
 
-## 　　紫 　　　ZANPAKUTO ARSENAL　　　紫
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0010,30:7c4dff,70:7c4dff,100:0a0010)
 
-[![Flutter](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░](https://flutter.dev)
+```
+██████████████████████████████████████████████████████████████████████
+█                                                                    █
+█    死        神         覚        醒                               █
+█    S  H  I  N  I  G  A  M  I     A  W  A  K  E  N  I  N  G       █
+█                                                                    █
+██████████████████████████████████████████████████████████████████████
+```
 
-[![Flutter](https://img.shields.io/badge/Flutter-7c4dff?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-b388ff?style=for-the-badge&logo=dart&logoColor=1a0040)](https://dart.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-9c27b0?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Android](https://img.shields.io/badge/Android-7c4dff?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
-[![iOS](https://img.shields.io/badge/iOS-b388ff?style=for-the-badge&logo=apple&logoColor=1a0040)](https://developer.apple.com)
-[![Python](https://img.shields.io/badge/Python-9c27b0?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Shell](https://img.shields.io/badge/Shell-7c4dff?style=for-the-badge&logo=gnubash&logoColor=white)]()
-[![VSCode](https://img.shields.io/badge/VSCode-b388ff?style=for-the-badge&logo=visualstudiocode&logoColor=1a0040)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/Git-9c27b0?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0010,30:7c4dff,70:7c4dff,100:0a0010)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=42&duration=1&pause=99999&color=b388ff&center=true&vCenter=true&width=800&lines=SPECIAL+GRADE+DEVELOPER)](https://git.io/typing-svg)
+
+[![](https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=1&pause=99999&color=4a0080&center=true&vCenter=true&width=800&lines=Flutter+%E3%80%80%C2%B7%E3%80%80+Firebase+%E3%80%80%C2%B7%E3%80%80+Dart+%E3%80%80%C2%B7%E3%80%80+BLE+%E3%80%80%C2%B7%E3%80%80+Android+%E3%80%80%C2%B7%E3%80%80+iOS)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+|  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-0a0010?style=for-the-badge&logo=flutter&logoColor=b388ff) | ![Dart](https://img.shields.io/badge/Dart-0a0010?style=for-the-badge&logo=dart&logoColor=7c4dff) | ![Firebase](https://img.shields.io/badge/Firebase-0a0010?style=for-the-badge&logo=firebase&logoColor=b388ff) | ![Android](https://img.shields.io/badge/Android-0a0010?style=for-the-badge&logo=android&logoColor=7c4dff) | ![iOS](https://img.shields.io/badge/iOS-0a0010?style=for-the-badge&logo=apple&logoColor=b388ff) |
+| ![Python](https://img.shields.io/badge/Python-0a0010?style=for-the-badge&logo=python&logoColor=7c4dff) | ![Shell](https://img.shields.io/badge/Shell-0a0010?style=for-the-badge&logo=gnubash&logoColor=b388ff) | ![Git](https://img.shields.io/badge/Git-0a0010?style=for-the-badge&logo=git&logoColor=7c4dff) | ![VSCode](https://img.shields.io/badge/VSCode-0a0010?style=for-the-badge&logo=visualstudiocode&logoColor=b388ff) | ![BLE](https://img.shields.io/badge/BLE-0a0010?style=for-the-badge&logo=bluetooth&logoColor=7c4dff) |
 
 </div>
 
@@ -53,43 +57,49 @@
 
 <div align="center">
 
-## 虚 夜 宮　·　SELECTED OPERATIONS
+[![](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=28&duration=1&pause=99999&color=7c4dff&center=true&vCenter=true&width=800&lines=%E8%99%9A%E5%A4%9C%E5%AE%AE+%E2%80%94+LAS+NOCHES)](https://git.io/typing-svg)
+
+[![](https://readme-typing-svg.demolab.com?font=Cinzel&size=12&duration=1&pause=99999&color=4a0080&center=true&vCenter=true&width=600&lines=SELECTED+OPERATIONS+%2F%2F+%E9%81%B8%E6%8A%9E%E3%81%95%E3%82%8C%E3%81%97%E4%BD%9C%E6%88%A6)](https://git.io/typing-svg)
 
 </div>
 
+<br>
+
 ```
- ┌─────────────────────────────────────────────────────────────────┐
- │                                                                 │
- │  [ ble_scale_app ]  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
- │  Bluetooth Low Energy · Flutter · Lefu Scale API               │
- │  Real-time weight sync via BLE GATT protocol                   │
- │                                                                 │
- │  [ AIVIA-new ]  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
- │  AI Interface · CSS · Modern Web                               │
- │  Intelligent assistant UI with adaptive design                 │
- │                                                                 │
- │  [ Sherlock- ]  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
- │  OSINT · Python · Reconnaissance                               │
- │  Digital footprint tracker across platforms                    │
- │                                                                 │
- │  [ ZPisher ]  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
- │  Network · Shell · Security Research                           │
- │  Advanced phishing simulation framework                        │
- │                                                                 │
- └─────────────────────────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────────────┐
+  │  ⬡  ble_scale_app                             [ BANKAI  ]   │
+  │     Bluetooth · Flutter · Lefu API                          │
+  │     Real-time BLE GATT weight sync                          │
+  ├──────────────────────────────────────────────────────────────┤
+  │  ⬡  AIVIA-new                                 [ BANKAI  ]   │
+  │     AI Interface · CSS · Web                                │
+  │     Next-gen intelligent assistant UI                       │
+  ├──────────────────────────────────────────────────────────────┤
+  │  ⬡  Sherlock-                                 [ SHIKAI  ]   │
+  │     OSINT · Python · Recon                                  │
+  │     Digital footprint tracker                               │
+  ├──────────────────────────────────────────────────────────────┤
+  │  ⬡  ZPisher                                   [ SHIKAI  ]   │
+  │     Network · Shell · Security                              │
+  │     Advanced phishing simulation framework                  │
+  └──────────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
+---
+
 <div align="center">
 
-## 霊 圧 · REIATSU METRICS
+[![](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=28&duration=1&pause=99999&color=7c4dff&center=true&vCenter=true&width=800&lines=%E9%9C%8A%E5%9C%A7+%E2%80%94+REIATSU+METRICS)](https://git.io/typing-svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&hide_border=true&bg_color=0d0015&title_color=b388ff&icon_color=7c4dff&text_color=ce93d8&ring_color=7c4dff)
+<br>
 
-![Streak](https://streak-stats.demolab.com?user=arcnosixta&hide_border=true&background=0d0015&stroke=7c4dff&ring=b388ff&fire=9c27b0&currStreakLabel=b388ff&sideLabels=ce93d8&dates=7c4dff&sideNums=ce93d8&currStreakNum=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&hide_border=true&bg_color=0a0010&title_color=b388ff&icon_color=7c4dff&text_color=9e7db5&ring_color=4a0080)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&hide_border=true&bg_color=0d0015&title_color=b388ff&text_color=ce93d8)
+![](https://streak-stats.demolab.com?user=arcnosixta&hide_border=true&background=0a0010&stroke=4a0080&ring=7c4dff&fire=b388ff&currStreakLabel=b388ff&sideLabels=9e7db5&dates=4a0080&sideNums=9e7db5&currStreakNum=ffffff)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&hide_border=true&bg_color=0a0010&title_color=b388ff&text_color=9e7db5)
 
 </div>
 
@@ -99,16 +109,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=13&duration=3500&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&lines=%E3%80%8C+The+blade+that+was+never+drawn+still+cuts+%E3%80%8D;%E3%80%8C+Every+commit+is+a+step+beyond+the+horizon+%E3%80%8D;%E3%80%8C+ARCNOSIXTA+%C2%B7+Special+Grade+%C2%B7+Always+%E3%80%8D)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=900&size=11&duration=3000&pause=1500&color=4a0080&center=true&vCenter=true&width=700&lines=%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AF%E3%80%81%E6%9C%80%E5%88%9D%E3%81%8B%E3%82%89%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%80%82;Everything+was+decided+from+the+very+beginning.;%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A0%E3%80%82;There+is+no+end.+Only+a+new+beginning.)](https://git.io/typing-svg)
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/t.me%2Farcnosixta-7c4dff?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arcnosixta)
-[![Email](https://img.shields.io/badge/arcnosixta%40gmail.com-9c27b0?style=flat-square&logo=gmail&logoColor=white)](mailto:arcnosixta@gmail.com)
-[![Instagram](https://img.shields.io/badge/%40arcnosixta-b388ff?style=flat-square&logo=instagram&logoColor=1a0040)](https://www.instagram.com/arcnosixta/)
+[![](https://img.shields.io/badge/%E2%96%B6%E3%80%80t.me%2Farcnosixta-0a0010?style=flat-square&logo=telegram&logoColor=b388ff&labelColor=0a0010)](https://t.me/arcnosixta)　[![](https://img.shields.io/badge/%E2%96%B6%E3%80%80arcnosixta%40gmail.com-0a0010?style=flat-square&logo=gmail&logoColor=7c4dff&labelColor=0a0010)](mailto:arcnosixta@gmail.com)　[![](https://img.shields.io/badge/%E2%96%B6%E3%80%80%40arcnosixta-0a0010?style=flat-square&logo=instagram&logoColor=b388ff&labelColor=0a0010)](https://www.instagram.com/arcnosixta/)
 
 <br>
+<br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0015,50:2d0060,100:0d0015&section=footer)
+![](https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0a0010,50:2d0060,100:0a0010&section=footer&reversal=true)
 
 </div>
