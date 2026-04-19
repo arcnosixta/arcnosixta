@@ -21,16 +21,22 @@ readme_content = """<div align="center">
 
 <div align="center">
 
-| **Rank** | **Espada #1** | **Aspect of Death** | **Solitude** |
-|:--------:|:-------------:|:-------------------:|:------------:|
-| **Zanpakutō** | 鏡花水月 (Kyōka Suigetsu) | **Shikai** | 砕けよ、鏡花水月 (Shatter, Kyōka Suigetsu) |
-| **Bankai** | — | **Type** | Illusion-type | 
+| Rank | Espada #1 | Aspect of Death | Solitude |
+|:----:|:---------:|:---------------:|:--------:|
+| Zanpakutō | 鏡花水月 (Kyōka Suigetsu) | Shikai | 砕けよ、鏡花水月 |
+| Bankai | — | Type | Illusion-type |
 
 </div>
 
 ---
 
 ## 🎭 完全催眠 (Kanzen Saimin)
+
+<div align="center">
+
+![Aizen Gif](https://media.tenor.com/S8_V9lNMc3IAAAAC/aizen-bleach.gif)
+
+</div>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -42,30 +48,38 @@ readme_content = """<div align="center">
 
 ### ✨ Abilities
 
-- **🌀 Hypnosis** — Controls the five senses to the point where victims cannot discern reality
-- **🌊 Water & Moon** — Like the flower reflected in the mirror and the moon on the water's surface
-- **👁️ Aizen's Gaze** — Once seen, the hypnosis is absolute and eternal
-- **⚡ Reiatsu Suppression** — Hides spiritual pressure completely
+| Ability | Description | Power Level |
+|:-------:|:------------|:-----------:|
+| 🌀 Hypnosis | Controls the five senses to the point where victims cannot discern reality | ████████████ 100% |
+| 🌊 Water & Moon | Like the flower reflected in the mirror and the moon on the water's surface | ████████████ 100% |
+| 👁️ Aizen's Gaze | Once seen, the hypnosis is absolute and eternal | ████████████ 100% |
+| ⚡ Reiatsu Suppression | Hides spiritual pressure completely | ███████████░ 95% |
 
 ---
 
 ## 🏰 Las Noches Architecture
 
+<div align="center">
+
+![Las Noches](https://media.tenor.com/8QkKf1lS9ZIAAAAC/las-noches-bleach.gif)
+
+</div>
+
 ```
-    ╔═══════════════════════════════════════════════╗
-    ║                                               ║
-    ║     ┌─────────┐        ┌─────────┐           ║
-    ║     │  TOWER  │════════│  THRONE │           ║
-    ║     │   #1    │        │  ROOM   │           ║
-    ║     └────┬────┘        └────┬────┘           ║
-    ║          │                  │                 ║
-    ║     ┌────┴────┐        ┌────┴────┐           ║
-    ║     │  ESPADA │════════│  REIATSU│           ║
-    ║     │ QUARTERS│        │  CORE   │           ║
-    ║     └─────────┘        └─────────┘           ║
-    ║                                               ║
-    ║         ☠️ 虚夜宮 (LAS NOCHES) ☠️              ║
-    ╚═══════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║      ┌──────────┐         ┌──────────┐                       ║
+║      │  TOWER   │═════════│  THRONE  │                       ║
+║      │    #1    │         │   ROOM   │                       ║
+║      └────┬─────┘         └────┬─────┘                       ║
+║           │                    │                              ║
+║      ┌────┴─────┐         ┌────┴─────┐                       ║
+║      │  ESPADA  │═════════│  REIATSU │                       ║
+║      │ QUARTERS │         │   CORE   │                       ║
+║      └──────────┘         └──────────┘                       ║
+║                                                               ║
+║           ☠️ 虚夜宮 (LAS NOCHES) ☠️                            ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -74,11 +88,17 @@ readme_content = """<div align="center">
 
 <div align="center">
 
-| **Evolution Stage** | **Description** | **Status** |
-|:-------------------:|:---------------|:----------:|
-| **🔵 Sealed** | Hidden within Rukia's Gigai | ✅ Complete |
-| **🟣 Awakened** | Fused with Aizen's soul | ✅ Complete |
-| **⚫ Transcended** | Breaking the boundary between Shinigami and Hollow | ✅ Complete |
+![Hogyoku](https://media.tenor.com/LgN4q2kJ8YAAAAAC/aizen-hogyoku.gif)
+
+</div>
+
+<div align="center">
+
+| Evolution Stage | Description | Status | Visual |
+|:---------------:|:------------|:------:|:------:|
+| 🔵 Sealed | Hidden within Rukia's Gigai | ✅ Complete | 💠 |
+| 🟣 Awakened | Fused with Aizen's soul | ✅ Complete | 🔮 |
+| ⚫ Transcended | Breaking the boundary between Shinigami and Hollow | ✅ Complete | 👁️ |
 
 </div>
 
@@ -86,31 +106,26 @@ readme_content = """<div align="center">
 
 ## 📜 百年前の真実 (Truth of 100 Years Ago)
 
+<div align="center">
+
+![Aizen Power](https://media.tenor.com/vbC1gB0J3EMAAAAC/aizen-sosuke-aizen.gif)
+
+</div>
+
 > *「私は神になりたいのではない。神を超えたいのだ。」*
 >
 > *"I do not wish to become God. I wish to surpass Him."*
 
 ### Timeline of Ascension
 
-```mermaid
-timeline
-    title Path of the Transcendent
-    section Soul Society
-        Captain : 5th Division Captain
-                : Researcher of Hōgyoku
-    section Betrayal
-        Defection : Faked Death
-                  : Stole Hōgyoku
-    section Hueco Mundo
-        King : Created Espada
-             : Built Las Noches
-    section War
-        Invasion : Attacked Karakura
-                 : Fought Gotei 13
-    section Seal
-        Prison : Sealed by Ichigo
-               : 20,000 Years
-```
+| Phase | Event | Location | Year |
+|:-----:|:------|:---------|:----:|
+| 🎓 | 5th Division Captain | Soul Society | -110 |
+| 🔬 | Researcher of Hōgyoku | S.R.D.I. | -101 |
+| 💀 | Faked Death | Seireitei | -1 |
+| 👑 | Created Espada | Hueco Mundo | 0 |
+| ⚔️ | Attacked Karakura | Human World | +1 |
+| ⛓️ | Sealed by Ichigo | Muken | +2 |
 
 ---
 
@@ -118,13 +133,13 @@ timeline
 
 <div align="center">
 
-| Element | Value |
-|---------|-------|
-| **Primary** | `#7C3AED` *(Violet Throne)* |
-| **Secondary** | `#1E1B4B` *(Midnight Reiatsu)* |
-| **Accent** | `#C4B5FD` *(Spiritual Pressure)* |
-| **Text** | `#F5F3FF` *(Moonlight)* |
-| **Warning** | `#EF4444` *(Blood of Enemies)* |
+| Element | Value | Preview |
+|:-------:|:-----:|:-------:|
+| Primary | `#7C3AED` | ![Violet](https://via.placeholder.com/60x30/7C3AED/7C3AED?text=+) |
+| Secondary | `#1E1B4B` | ![Midnight](https://via.placeholder.com/60x30/1E1B4B/1E1B4B?text=+) |
+| Accent | `#C4B5FD` | ![Spirit](https://via.placeholder.com/60x30/C4B5FD/C4B5FD?text=+) |
+| Text | `#F5F3FF` | ![Moonlight](https://via.placeholder.com/60x30/F5F3FF/F5F3FF?text=+) |
+| Warning | `#EF4444` | ![Blood](https://via.placeholder.com/60x30/EF4444/EF4444?text=+) |
 
 </div>
 
@@ -132,32 +147,42 @@ timeline
 
 ## ⚔️ 戦闘データ (Combat Statistics)
 
+<div align="center">
+
+![Aizen Fight](https://media.tenor.com/QX_6whJo0qMAAAAC/aizen-bleach.gif)
+
+</div>
+
 ```
-Reiatsu:    ████████████████████ 9999+ (Immeasurable)
-Zanjutsu:   ████████████████████ Master
-Hakuda:     █████████████████░░░ Expert  
-Hohō:       ████████████████████ Flash God
-Kidō:       ████████████████████ Grandmaster
-Intellect:  ████████████████████ Transcendent
-Charisma:   ████████████████████ Absolute
-Arrogance:  ████████████████████ Maximum
+╔══════════════════════════════════════════════════════════════╗
+║  REIATSU     ████████████████████████████████████ 9999+    ║
+║  ZANJUTSU    ████████████████████████████████████ MASTER   ║
+║  HAKUDA      ████████████████████████████████░░░░░ EXPERT   ║
+║  HOHŌ        ████████████████████████████████████ FLASH GOD ║
+║  KIDŌ        ████████████████████████████████████ GRANDMASTER║
+║  INTELLECT   ████████████████████████████████████ TRANSCENDENT ║
+║  CHARISMA    ████████████████████████████████████ ABSOLUTE   ║
+║  ARROGANCE   ████████████████████████████████████ MAXIMUM  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 ## 🌟 名言集 (Famous Quotes)
 
-> *「あまりにも強大な力は、時として自分の目で見ることすら許されない。」*
->
-> *"Power so vast that sometimes one is not even allowed to see it with their own eyes."*
+<div align="center">
 
-> *「絶望とは、完全に目を開いた状態である。」*
->
-> *"Despair is a state of having one's eyes fully open."*
+![Aizen Smile](https://media.tenor.com/mtKmrP8m9XwAAAAC/aizen-sosuke.gif)
 
-> *「戦いとは、欺き合いである。」*
->
-> *"Battle is a matter of mutual deception."*
+</div>
+
+| Quote JP | Quote EN | Context |
+|:---------|:---------|:--------|
+| 「あまりにも強大な力は、時として自分の目で見ることすら許されない。」 | "Power so vast that sometimes one is not even allowed to see it with their own eyes." | To Ichigo |
+| 「絶望とは、完全に目を開いた状態である。」 | "Despair is a state of having one's eyes fully open." | To Shinji |
+| 「戦いとは、欺き合いである。」 | "Battle is a matter of mutual deception." | Philosophy |
+| 「私は神になりたいのではない。神を超えたいのだ。」 | "I do not wish to become God. I wish to surpass Him." | Ambition |
+| 「鏡に映る花の如く、水に映る月の如く。」 | "Like the flower reflected in the mirror, like the moon reflected on the water's surface." | Kyōka Suigetsu |
 
 ---
 
@@ -165,12 +190,52 @@ Arrogance:  ████████████████████ Maximum
 
 <div align="center">
 
+![Kyoka Suigetsu](https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif)
+
 ### **砕けよ、鏡花水月**
 ### *"Shatter, Kyōka Suigetsu"*
 
-![divider](https://img.shields.io/badge/✦✦✦-8B5CF6?style=for-the-badge)
+<img src="https://img.shields.io/badge/✦✦✦-8B5CF6?style=for-the-badge" />
 
 </div>
+
+---
+
+## 🎴 十刃 (Espada Roster)
+
+<div align="center">
+
+| # | Name | Aspect | Status |
+|:-:|:-----|:-------|:------:|
+| 1 | Coyote Starrk | Solitude | 💀 |
+| 2 | Baraggan Louisenbairn | Aging | 💀 |
+| 3 | Tier Harribel | Sacrifice | ✅ |
+| 4 | Ulquiorra Cifer | Emptiness | 💀 |
+| 5 | Nnoitra Gilga | Despair | 💀 |
+| 6 | Grimmjow Jaegerjaquez | Destruction | ✅ |
+
+</div>
+
+---
+
+## 👁️ 最終融合 (Final Fusion)
+
+<div align="center">
+
+![Aizen Transformation](https://media.tenor.com/3J8Kj8Z8-8IAAAAC/aizen-bleach.gif)
+
+![Aizen Final](https://media.tenor.com/8QkKf1lS9ZIAAAAC/aizen-sosuke.gif)
+
+</div>
+
+| Form | Appearance | Power |
+|:-----|:-----------|:------|
+| Standard | Glasses, Brown Hair | Captain Level |
+| Post-Hōgyoku | Hair Slicked Back | Transcendent |
+| Chrysalis | White Cocoon | Evolving |
+| First Fusion | White Armor | Near-God |
+| Second Fusion | Butterfly Wings | Godlike |
+| Final Form | Monster | Ultimate |
 
 ---
 
@@ -190,6 +255,8 @@ Arrogance:  ████████████████████ Maximum
 
 <div align="center">
 
+![Aizen End](https://media.tenor.com/vbC1gB0J3EMAAAAC/aizen-sosuke-aizen.gif)
+
 *「鏡に映る花の如く、水に映る月の如く。」*
 
 *"Like the flower reflected in the mirror, like the moon reflected on the water's surface."*
@@ -197,11 +264,11 @@ Arrogance:  ████████████████████ Maximum
 </div>
 """
 
-# Save the file with .readme extension
+# Save the file
 output_path = "/mnt/agents/output/README_Aizen.readme"
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(readme_content)
 
-print("README файл создан успешно!")
+print("README файл обновлён!")
 print(f"Путь: {output_path}")
 print(f"Размер: {len(readme_content)} символов")
