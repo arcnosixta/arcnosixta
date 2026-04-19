@@ -10,7 +10,7 @@
 
 <!-- Aizen Throne -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/8675728.png" width="80%" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+  <img src="[https://wallpaperaccess.com/full/8675728.png](https://www.wallpaperflare.com/search?wallpaper=aizen)" width="80%" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
 </p>
 
 <!-- Full width divider -->
