@@ -10,7 +10,7 @@
 
 <!-- Aizen Throne -->
 <p align="center">
-  <img src="aizen.mp4" width="80%" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+  <img src="aizen.jpg" width="80%" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
 </p>
 
 <!-- Full width divider -->
