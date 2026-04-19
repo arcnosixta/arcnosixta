@@ -5,7 +5,7 @@
 
 <!-- Name under domain -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=◈+SŌSUKE+AIZEN+◈" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=◈+arcnosixta+◈" />
 </p>
 
 <!-- Aizen Throne -->
