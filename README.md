@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Domain Expansion GIF -->
-<img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+<img src="[https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif](https://www.wallpaperflare.com/search?wallpaper=aizen)" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
 
 <!-- Name under domain -->
 <p align="center">
