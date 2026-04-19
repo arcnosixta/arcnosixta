@@ -1,92 +1,117 @@
-<!-- HEADER -->
 <div align="center">
-<img src="https://media.tenor.com/EClXCWlLgmAAAAAC/aizen-bleach.gif" width="600"/>
-<br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=52&duration=1&pause=99999&color=C9A84C&center=true&vCenter=true&width=800&lines=ARCNOSIXTA)](https://git.io/typing-svg)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=22&duration=3000&pause=2000&color=C9A84C&center=true&vCenter=true&width=800&lines=...from+the+moment+of+our+first+meeting...;...your+fate+was+already+sealed.;I+have+stood+in+the+heavens.;Code+is+merely+the+extension+of+will.)](https://git.io/typing-svg)
- 
-<br/>
-![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A84C,000000,4B3000)
- 
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,50:3d0000,100:1a0000&text=ARCNOSIXTA&fontColor=C9A84C&fontSize=60&fontAlign=50&fontAlignY=38&desc=崩玉%20·%20Hōgyoku%20Developer&descAlignY=60&descSize=18&descFontColor=8a7a4a&animation=fadeIn)
+
 </div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=18&duration=3000&pause=1500&color=C9A84C&center=true&vCenter=true&width=700&lines=...Since+the+moment+we+met%2C+your+fate+was+sealed...;...I+have+stood+at+the+top+of+all+three+realms...;Flutter+%E2%9A%94%EF%B8%8F+Firebase+%E2%9A%94%EF%B8%8F+Dart+%E2%9A%94%EF%B8%8F+BLE)](https://git.io/typing-svg)
+
+</div>
+
 ---
- 
+
 <div align="center">
-## ｢ 完全催眠 · Kanzen Saimin ｣
-### Complete Hypnosis — Tech Dominion
- 
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0a,40:C9A84C,60:C9A84C,100:0a0a0a)
+
 </div>
+
+<br/>
+
+<div align="center">
+
+## 完 全 催 眠 · Kanzen Saimin
+
+*Complete Hypnosis — the enemy sees only what I allow them to see*
+
+</div>
+
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
+║                    ⚔  CURSED TECHNIQUE MASTERY  ⚔                   ║
+╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   Hōgyoku           ████████████████████  Flutter       [ Master ]  ║
-║   Kyōka Suigetsu    ████████████████████  Firebase      [ Master ]  ║
-║   Reiatsu Control   ███████████████░░░░░  Dart          [  95%  ]   ║
-║   Hollow Fusion     ████████████████░░░░  BLE / Android [  90%  ]   ║
-║   Black Flash API   ████████████████░░░░  REST API      [  90%  ]   ║
+║  Flutter       ████████████████████  95%  [ BANKAI ]                ║
+║  Firebase      ████████████████████  90%  [ BANKAI ]                ║
+║  Dart          ███████████████████░  92%  [ BANKAI ]                ║
+║  BLE / GATT    ██████████████████░░  85%  [ SHIKAI ]                ║
+║  REST API      ████████████████████  90%  [ BANKAI ]                ║
+║  Python        ██████████████░░░░░░  75%  [ SHIKAI ]                ║
+║  Shell         █████████████░░░░░░░  70%  [ SHIKAI ]                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
- 
----
- 
-<div align="center">
-## ｢ 蒼 · Kyōka Suigetsu — Arsenal ｣
-### Reflect the blade. Understand the tool.
- 
-[![Flutter](https://img.shields.io/badge/Flutter-%23C9A84C?style=for-the-badge&logo=flutter&logoColor=000000)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-%23000000?style=for-the-badge&logo=dart&logoColor=C9A84C)](https://dart.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-%234B3000?style=for-the-badge&logo=firebase&logoColor=C9A84C)](https://firebase.google.com)
-[![Android](https://img.shields.io/badge/Android-%23000000?style=for-the-badge&logo=android&logoColor=C9A84C)](https://developer.android.com)
-[![iOS](https://img.shields.io/badge/iOS-%234B3000?style=for-the-badge&logo=apple&logoColor=C9A84C)](https://developer.apple.com)
-[![Bluetooth](https://img.shields.io/badge/BLE-%23000000?style=for-the-badge&logo=bluetooth&logoColor=C9A84C)]()
-[![Python](https://img.shields.io/badge/Python-%234B3000?style=for-the-badge&logo=python&logoColor=C9A84C)](https://python.org)
-[![Shell](https://img.shields.io/badge/Shell-%23000000?style=for-the-badge&logo=gnubash&logoColor=C9A84C)]()
-[![VSCode](https://img.shields.io/badge/VSCode-%234B3000?style=for-the-badge&logo=visualstudiocode&logoColor=C9A84C)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git&logoColor=C9A84C)](https://git-scm.com)
- 
-</div>
----
- 
-<div align="center">
-## ｢ 虚 圏 · Hueco Mundo — Pinnacle Works ｣
- 
-</div>
-| Project | Domain | Reiatsu |
-|:-------:|:------:|:-------:|
-| [**ble_scale_app**](https://github.com/arcnosixta/ble_scale_app) | Bluetooth ✦ Flutter ✦ Lefu API | ⬛⬛⬛⬛⬛ |
-| [**AIVIA-new**](https://github.com/arcnosixta/AIVIA-new) | AI Interface ✦ CSS | ⬛⬛⬛⬛⬜ |
-| [**Sherlock-**](https://github.com/arcnosixta/Sherlock-) | OSINT ✦ Python | ⬛⬛⬛⬛⬜ |
-| [**ZPisher**](https://github.com/arcnosixta/ZPisher) | Shell ✦ Network | ⬛⬛⬛⬜⬜ |
- 
----
- 
-<div align="center">
-## ｢ 魂 魄 · Reiatsu — Battle Statistics ｣
- 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&icon_color=8B0000&text_color=ffffff&border_color=4B3000)](https://github.com/arcnosixta)
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=0a0a0a&stroke=C9A84C&fire=8B0000&ring=4B3000&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/arcnosixta)
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=ffffff&border_color=4B3000)](https://github.com/arcnosixta)
- 
-</div>
----
- 
-<div align="center">
-## ｢ 覇 道 · Hadō — Contact Pathways ｣
- 
-*"Those who challenge me have already lost."*
- 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-%23000000?style=for-the-badge&logo=telegram&logoColor=C9A84C&label=&labelColor=4B3000)](https://t.me/arcnosixta)
-[![Email](https://img.shields.io/badge/EMAIL-%234B3000?style=for-the-badge&logo=gmail&logoColor=C9A84C&label=&labelColor=000000)](mailto:arcnosixta@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23000000?style=for-the-badge&logo=instagram&logoColor=C9A84C&label=&labelColor=4B3000)](https://www.instagram.com/arcnosixta/)
-[![GitHub](https://img.shields.io/badge/GITHUB-%234B3000?style=for-the-badge&logo=github&logoColor=C9A84C&label=&labelColor=000000)](https://github.com/arcnosixta)
- 
+
 <br/>
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:8B0000,100:4B3000&section=footer&animation=twinkling)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=18&duration=4000&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=...I+have+had+the+knowledge+and+power+of+a+god...;...yet+I+have+never+felt+the+anguish+of+defeat.;Build.+Refine.+Transcend.+⚔)](https://git.io/typing-svg)
- 
+
+<div align="center">
+
+## 虚 圏 · Hueco Mundo — Zanpakutō Stack
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,python,bash,html,css,js&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0a,40:8B0000,60:8B0000,100:0a0a0a)
+
+</div>
+
+<br/>
+
+## ⚔ 虚夜宮 · Las Noches — Pinnacle Techniques
+
+| 刃 Blade | 術 Domain | 霊圧 Reiatsu |
+|:--------|:---------|:------------|
+| [**ble_scale_app**](https://github.com/arcnosixta/ble_scale_app) | Bluetooth · Flutter · Lefu API | `BANKAI` |
+| [**AIVIA-new**](https://github.com/arcnosixta/AIVIA-new) | AI Interface · CSS | `BANKAI` |
+| [**Sherlock-**](https://github.com/arcnosixta/Sherlock-) | OSINT · Python | `SHIKAI` |
+| [**ZPisher**](https://github.com/arcnosixta/ZPisher) | Network · Shell | `SHIKAI` |
+
+<br/>
+
+<div align="center">
+
+## 霊 圧 · Reiatsu — Battle Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=C9A84C&icon_color=8B0000&text_color=c9c9c9&ring_color=C9A84C)
+
+![Streak](https://streak-stats.demolab.com?user=arcnosixta&theme=dark&hide_border=true&background=0d0d0d&stroke=C9A84C&ring=8B0000&fire=C9A84C&currStreakLabel=C9A84C)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=C9A84C&text_color=c9c9c9)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0a,40:C9A84C,60:C9A84C,100:0a0a0a)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 覇 道 · Hadō — Contact Links
+
+[![Telegram](https://img.shields.io/badge/Telegram-arcnosixta-C9A84C?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=1a1a1a)](https://t.me/arcnosixta)
+[![Gmail](https://img.shields.io/badge/Gmail-arcnosixta-C9A84C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:arcnosixta@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-arcnosixta-C9A84C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=1a1a1a)](https://www.instagram.com/arcnosixta/)
+[![GitHub](https://img.shields.io/badge/GitHub-arcnosixta-C9A84C?style=for-the-badge&logo=github&logoColor=000000&labelColor=1a1a1a)](https://github.com/arcnosixta)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=16&duration=4000&pause=1000&color=8a7a4a&center=true&vCenter=true&width=700&lines=Build.+Break.+Fix.+Repeat.+%E2%9A%94%EF%B8%8F;%E2%80%9CI+have+had+the+knowledge+and+power+of+a+god%E2%80%9D;%E2%80%94+Aizen+Sosuke)](https://git.io/typing-svg)
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a0000,50:3d0000,100:0a0a0a&section=footer)
+
 </div>
