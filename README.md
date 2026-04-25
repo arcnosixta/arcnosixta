@@ -186,7 +186,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=16&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=700&lines=✦+ZA+WARUDO...+TOKI+WO+TOMARE+✦;⭐+Star+my+repos+if+you+dare...+⭐;👁+THE+WORLD+HAS+NO+LIMITS+👁" alt="Footer Typing" />
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a0a00,50:B8860B,100:FFD700&section=footer)
+
  
 </div>
 <!-- 
