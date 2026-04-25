@@ -1,258 +1,248 @@
+
+Claude finished the response
+You said: https://github.
+https://github.com/arcnosixta/ write a readme file for my githhub profile in golden style. I will paste DIO from JOJO to my profile image. Do anything in golden style and write full informations about me
+
+23:46
+Claude responded: Now I have a clear picture of your profile.
+
+Fetched: arcnosixta - Overview
+Fetched: arcnosixta - Overview
+Now I have a clear picture of your profile. You're a Flutter/Dart developer with Firebase, BLE, and more — and you already have a JoJo-themed profile with Jujutsu Kaisen styling. Let me now build you a full DIO / JoJo's Bizarre Adventure golden-style README.
+
+
+Check frontend design skill
+Check frontend design skill
+Now let me create the golden DIO-themed README:
+
+
+Created a file, read a file
+Created a file, read a file
+✦ ZA WARUDO — Your golden README is ready! ✦
+
+Here's what I packed into it based on your real profile:
+
+🔱 Golden Color Palette — deep black 
+#1a0a00, classic gold 
+#FFD700, dark gold 
+#B8860B, and crimson 
+#DC143C for that DIO aesthetic throughout.
+
+👁 DIO / JoJo Quotes & Style — animated typing header with "ZA WARUDO... TOKI WO TOMARE", a DIO quote section, and JoJo-themed section names like "Innate Technique", "Noble Phantasms", "Cursed Energy Levels".
+
+⚡ Real Info from your profile — your actual repos (AIVIA-new, ble_scale_app, Sherlock-, ZPisher), your tech stack (Flutter, Dart, Firebase, BLE, Python, Shell), and all your social links (Telegram, Gmail, Instagram, GitHub).
+
+📊 Live GitHub widgets — stats card, streak tracker, top languages, and activity graph, all styled in gold/dark theme.
+
+How to use it: Create a repo named arcnosixta/arcnosixta on GitHub (same name as your username), and paste this as the README.md inside it — it'll appear on your profile page automatically!
+
+
+Readme
+Document · MD 
+
+Want to be notified when Claude responds?
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Readme · MD
+Copy
+
 <div align="center">
-
-<!-- Domain Expansion GIF -->
-<img src="[https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif](https://www.wallpaperflare.com/search?wallpaper=aizen)" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
-
-<!-- Name under domain -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=◈+arcnosixta+◈" />
-</p>
-
-<!-- Aizen Throne -->
-<p align="center">
-  <img src="aizen.jpg" width="80%" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
-</p>
-
-<!-- Full width divider -->
-<img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
-
-<!-- Aizen Power -->
-<img src="https://media.tenor.com/vbC1gB0J3EMAAAAC/aizen-sosuke-aizen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
-
-<!-- Kyoka Suigetsu -->
-<img src="https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
-
-<!-- Kanji -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=鏡花水月;完全催眠" />
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED,1E1B4B,8B5CF6"/>
-</p>
-
-<!-- Roles -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8B5CF6&center=true&vCenter=true&width=800&lines=▣+5th+Division+Captain+▣;⚉+Zanpakutō:+Kyōka+Suigetsu+⚉;⚉+Shikai:+Illusion+Type+⚉" />
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚉_RANK-CAPTAIN-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-  <img src="https://img.shields.io/badge/⚉_ZANPAKUTŌ-KYŌKA_SUIGETSU-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-  <img src="https://img.shields.io/badge/⚉_TYPE-ILLUSION-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-  <img src="https://img.shields.io/badge/⚉_STATUS-SEALED-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     ★ GOLDEN HEADER ★                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+![Golden Divider](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0a00,30:B8860B,60:FFD700,100:1a0a00&text=ARCNOSIXTA&fontColor=FFD700&fontSize=60&fontAlignY=38&desc=✦%20Mobile%20Developer%20✦%20Special%20Grade&descAlignY=60&descSize=18&animation=twinkling)
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=✦+ZA+WARUDO...+TOKI+WO+TOMARE+✦;⚡+Special+Grade+Flutter+Developer+⚡;🔱+The+World+Awaits+My+Code+🔱;👁+I+Reject+My+Humanity%2C+GitHub!" alt="Typing SVG" />
+---
+ 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     ✦ ABOUT ME ✦                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1a0a00,50:FFD700,100:1a0a00" width="100%"/>
+## ✦ 「 WHO AM I? 」 ✦
+ 
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ██████╗ ██╗ ██████╗     ██████╗ ██████╗  █████╗ ███╗   ██╗ ██████╗║
+║   ██╔══██╗██║██╔═══██╗    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔═══██║
+║   ██║  ██║██║██║   ██║    ██████╔╝██████╔╝███████║██╔██╗ ██║██║   ██║
+║   ██║  ██║██║██║   ██║    ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║   ██║
+║   ██████╔╝██║╚██████╔╝    ██████╔╝██║  ██║██║  ██║██║ ╚████║╚██████╔╝
+║   ╚═════╝ ╚═╝ ╚═════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
+║                                                                      ║
+║     ✦ ARCNOSIXTA ✦  Mobile App Developer  ✦  Special Grade ✦        ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1a0a00,50:FFD700,100:1a0a00" width="100%"/>
 </div>
-
-⚉ About Me — Reiatsu Flow
+<br/>
 <div align="center">
-
-    ╔══════════════════════════════════════════════════════════════════╗
-    ║  ⚉  Kidō Mastery                    ████████████████░░░░  100% ║
-    ║  ⚉  Zanjutsu Expert                 ████████████████░░░░  100% ║
-    ║  ⚉  Hohō Flash God                  ████████████████░░░░  100% ║
-    ║  ⚉  Hakuda Combat                   ███████████████░░░░░   95% ║
-    ║  ⚉  Intellect Transcendent          ████████████████░░░░  100% ║
-    ╚══════════════════════════════════════════════════════════════════╝
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   ✦ BIO TABLE ✦                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+| 🔱 Field | ✦ Value |
+|:---:|:---|
+| 👤 **Name** | `arcnosixta` |
+| 🌍 **Origin** | Kazakhstan 🇰🇿 |
+| 💀 **Stand** | *THE WORLD — Special Grade Developer* |
+| ⚡ **Power** | Flutter · Dart · Firebase · BLE |
+| 🎯 **Mission** | Building apps that stop time ⏱ |
+| 📡 **Domain** | Mobile Development + IoT |
+| 📸 **Instagram** | [@arcnosixta](https://www.instagram.com/arcnosixta/) |
+| 📬 **Email** | arcnosixta@gmail.com |
+| 💬 **Telegram** | [@arcnosixta](https://t.me/arcnosixta) |
+| 👁 **GitHub** | [github.com/arcnosixta](https://github.com/arcnosixta) |
+ 
 </div>
-
-⚉ Innate Technique — Soul Reaper Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,js,html,css&theme=dark&perline=5" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-7C3AED?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-8B5CF6?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat-square&logo=typescript&logoColor=8B5CF6"/>
-  <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=1E1B4B"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6"/>
-</p>
-
-⚉ Featured Technique — Kyōka Suigetsu Domain
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif" width="350" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 25px #8B5CF6;"/>
-    </td>
-    <td align="left" width="50%">
-      <h3 align="center">◈ Domain: Kanzen Saimin ◈</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Technique-ILLUSION-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-        <img src="https://img.shields.io/badge/Type-WATER+MOON-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-      </p>
-      <ul>
-        <li>⚉ Complete Hypnosis — Five Senses Control</li>
-        <li>⚉ Eternal Illusion — Once Seen, Always Bound</li>
-        <li>⚉ Reiatsu Suppression — Undetectable Presence</li>
-        <li>⚉ Absolute Deception — Reality Manipulation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-⚉ Battle Stats — Spiritual Pressure
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&border_color=7C3AED" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=1E1B4B&stroke=8B5CF6&fire=7C3AED&ring=8B5CF6&currStreakNum=C4B5FD&sideNums=C4B5FD" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&text_color=C4B5FD&border_color=7C3AED" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=redical&hide_border=true&area=true&color=7C3AED&line=8B5CF6&point=C4B5FD&bg_color=1E1B4B" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=8B5CF6"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED,1E1B4B,8B5CF6"/>
-</p>
-
-⚉ Espada Roster — Arrancar Army
-<table align="center">
-  <tr>
-    <td align="center"><b>#</b></td>
-    <td align="center"><b>Name</b></td>
-    <td align="center"><b>Aspect</b></td>
-    <td align="center"><b>Status</b></td>
-  </tr>
-  <tr>
-    <td align="center">1</td>
-    <td align="center">Coyote Starrk</td>
-    <td align="center">Solitude</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">2</td>
-    <td align="center">Baraggan Louisenbairn</td>
-    <td align="center">Aging</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">3</td>
-    <td align="center">Tier Harribel</td>
-    <td align="center">Sacrifice</td>
-    <td align="center">✅</td>
-  </tr>
-  <tr>
-    <td align="center">4</td>
-    <td align="center">Ulquiorra Cifer</td>
-    <td align="center">Emptiness</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">5</td>
-    <td align="center">Nnoitra Gilga</td>
-    <td align="center">Despair</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">6</td>
-    <td align="center">Grimmjow Jaegerjaquez</td>
-    <td align="center">Destruction</td>
-    <td align="center">✅</td>
-  </tr>
-</table>
-
-⚉ Hōgyoku Evolution — Forms of Transcendence
-<table align="center">
-  <tr>
-    <td align="center"><b>Form</b></td>
-    <td align="center"><b>Appearance</b></td>
-    <td align="center"><b>Power Level</b></td>
-  </tr>
-  <tr>
-    <td align="center">Standard</td>
-    <td align="center">Glasses, Brown Hair</td>
-    <td align="center">Captain</td>
-  </tr>
-  <tr>
-    <td align="center">Post-Hōgyoku</td>
-    <td align="center">Slicked Back Hair</td>
-    <td align="center">Transcendent</td>
-  </tr>
-  <tr>
-    <td align="center">Chrysalis</td>
-    <td align="center">White Cocoon</td>
-    <td align="center">Evolving</td>
-  </tr>
-  <tr>
-    <td align="center">First Fusion</td>
-    <td align="center">White Armor</td>
-    <td align="center">Near-God</td>
-  </tr>
-  <tr>
-    <td align="center">Second Fusion</td>
-    <td align="center">Butterfly Wings</td>
-    <td align="center">Godlike</td>
-  </tr>
-  <tr>
-    <td align="center">Final Form</td>
-    <td align="center">Monster</td>
-    <td align="center">Ultimate</td>
-  </tr>
-</table>
-
-⚉ Famous Quotes — Words of a God
-<table align="center">
-  <tr>
-    <td align="center"><b>Japanese</b></td>
-    <td align="center"><b>English</b></td>
-    <td align="center"><b>Context</b></td>
-  </tr>
-  <tr>
-    <td align="center">私は神になりたいのではない。神を超えたいのだ。</td>
-    <td align="center">"I do not wish to become God. I wish to surpass Him."</td>
-    <td align="center">Ambition</td>
-  </tr>
-  <tr>
-    <td align="center">絶望とは、完全に目を開いた状態である。</td>
-    <td align="center">"Despair is a state of having one's eyes fully open."</td>
-    <td align="center">Philosophy</td>
-  </tr>
-  <tr>
-    <td align="center">戦いとは、欺き合いである。</td>
-    <td align="center">"Battle is a matter of mutual deception."</td>
-    <td align="center">Strategy</td>
-  </tr>
-  <tr>
-    <td align="center">鏡に映る花の如く、水に映る月の如く。</td>
-    <td align="center">"Like the flower in the mirror, like the moon on the water."</td>
-    <td align="center">Kyōka Suigetsu</td>
-  </tr>
-</table>
-
-⚉ Contact — Spiritual Link
-<p align="center">
-  <a href="https://t.me/arcnosixta">
-    <img src="https://img.shields.io/badge/TELEGRAM-7C3AED?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E1B4B"/>
-  </a>
-  <a href="mailto:arcnosixta@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B"/>
-  </a>
-  <a href="https://github.com/arcnosixta">
-    <img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arcnosixta&label=REIATSU+LEVEL&color=7C3AED&style=for-the-badge&logo=eye&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1E1B4B,50:7C3AED,100:8B5CF6&section=footer&animation=twinkling"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=24&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=砕けよ、鏡花水月;Shatter.+Control.+Transcend.+%E2%9A%89" />
-</p>
+<br/>
+<div align="center">
+---
+ 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  ✦ GOLDEN QUOTE ✦                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+> # 「 *It was me, DIO... and it was my code.* 」
+> ### — *The moment every bug gets fixed*
+ 
+---
+ 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                 ✦ TECH STACK ✦                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+## ✦ 「 INNATE TECHNIQUE — TECH STACK 」 ✦
+ 
+![Flutter](https://img.shields.io/badge/Flutter-%23DC143C?style=for-the-badge&logo=flutter&logoColor=FFD700&labelColor=1a0a00)
+![Dart](https://img.shields.io/badge/Dart-%23FFD700?style=for-the-badge&logo=dart&logoColor=1a0a00&labelColor=1a0a00)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFD700?style=for-the-badge&logo=firebase&logoColor=1a0a00&labelColor=1a0a00)
+![Android](https://img.shields.io/badge/Android-%23B8860B?style=for-the-badge&logo=android&logoColor=FFD700&labelColor=1a0a00)
+![iOS](https://img.shields.io/badge/iOS-%23DC143C?style=for-the-badge&logo=apple&logoColor=FFD700&labelColor=1a0a00)
+![Python](https://img.shields.io/badge/Python-%23FFD700?style=for-the-badge&logo=python&logoColor=1a0a00&labelColor=1a0a00)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23B8860B?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=1a0a00)
+![HTML](https://img.shields.io/badge/HTML5-%23DC143C?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=1a0a00)
+![CSS](https://img.shields.io/badge/CSS3-%23FFD700?style=for-the-badge&logo=css3&logoColor=1a0a00&labelColor=1a0a00)
+![Git](https://img.shields.io/badge/Git-%23B8860B?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=1a0a00)
+![VS Code](https://img.shields.io/badge/VSCode-%23FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=1a0a00&labelColor=1a0a00)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23DC143C?style=for-the-badge&logo=androidstudio&logoColor=FFD700&labelColor=1a0a00)
+![Bluetooth](https://img.shields.io/badge/BLE-%23B8860B?style=for-the-badge&logo=bluetooth&logoColor=FFD700&labelColor=1a0a00)
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1a0a00,50:FFD700,100:1a0a00" width="100%"/>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦ SKILL BARS ✦                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+## ✦ 「 CURSED ENERGY LEVELS 」 ✦
+ 
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ✦ Flutter / Dart             ████████████████████░░░░  95%  ★★★★ ║
+║   ✦ Firebase Backend           ███████████████████░░░░░  90%  ★★★★ ║
+║   ✦ BLE / IoT Integration      ██████████████████░░░░░░  85%  ★★★☆ ║
+║   ✦ REST API Design            ███████████████████░░░░░  90%  ★★★★ ║
+║   ✦ Android & iOS Deployment   ████████████████████░░░░  95%  ★★★★ ║
+║   ✦ Python / Shell Scripts     ███████████████░░░░░░░░░  75%  ★★★☆ ║
+║   ✦ Web (HTML / CSS / JS)      ██████████████░░░░░░░░░░  70%  ★★★☆ ║
+║   ✦ UI/UX Design               ███████████████████░░░░░  90%  ★★★★ ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1a0a00,50:FFD700,100:1a0a00" width="100%"/>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦ PINNED PROJECTS ✦                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+## ✦ 「 NOBLE PHANTASMS — FEATURED PROJECTS 」 ✦
+ 
+| 🔱 Project | ⚡ Description | 🛠 Stack |
+|:---:|:---|:---:|
+| 🌐 [**AIVIA-new**](https://github.com/arcnosixta/AIVIA-new) | Next-gen AI-powered application | `CSS` · `JS` |
+| ⚖️ [**ble_scale_app**](https://github.com/arcnosixta/ble_scale_app) | Bluetooth scale app with real-time data streaming | `Flutter` · `Dart` · `BLE` |
+| 🔍 [**Sherlock-**](https://github.com/arcnosixta/Sherlock-) | OSINT & investigation toolkit | `Python` |
+| 🎭 [**ZPisher**](https://github.com/arcnosixta/ZPisher) | Shell-based utility tool | `Shell` |
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1a0a00,50:FFD700,100:1a0a00" width="100%"/>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦ STATS ✦                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+## ✦ 「 BATTLE POWER — GITHUB STATS 」 ✦
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a00&title_color=FFD700&icon_color=B8860B&text_color=ffffff&border_color=B8860B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=0a0a0a&stroke=FFD700&fire=DC143C&ring=B8860B&currStreakNum=FFD700&sideNums=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=0a0a00&title_color=FFD700&text_color=ffffff&border_color=B8860B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=redical&hide_border=true&area=true&color=B8860B&line=FFD700&point=DC143C&bg_color=0a0a00" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1a0a00,50:FFD700,100:1a0a00" width="100%"/>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦ PHILOSOPHY ✦                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+## ✦ 「 THE WORLD'S PHILOSOPHY 」 ✦
+ 
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "Humans live by the knowledge accumulated since birth,             ║
+║    their thoughts shaped by that knowledge.                          ║
+║    Commit yourself to evil...                                        ║
+║    transcend the boundaries of humans..."                            ║
+║                                                                      ║
+║                      — DIO, JoJo's Bizarre Adventure                 ║
+║                                                                      ║
+║   Translation: Ship fast, debug faster, never stop building.         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+ 
+> 🔱 **Build.** &nbsp;&nbsp; 🔱 **Break.** &nbsp;&nbsp; 🔱 **Fix.** &nbsp;&nbsp; 🔱 **Repeat.** &nbsp;&nbsp; ✦ **Ship.**
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1a0a00,50:FFD700,100:1a0a00" width="100%"/>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦ CONTACT ✦                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+## ✦ 「 OPEN THE GATE — CONTACT ME 」 ✦
+ 
+[![Telegram](https://img.shields.io/badge/Telegram-1a0a00?style=for-the-badge&logo=telegram&logoColor=FFD700)](https://t.me/arcnosixta)
+[![Gmail](https://img.shields.io/badge/Gmail-1a0a00?style=for-the-badge&logo=gmail&logoColor=DC143C)](mailto:arcnosixta@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1a0a00?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/arcnosixta/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0a00?style=for-the-badge&logo=github&logoColor=B8860B)](https://github.com/arcnosixta)
+ 
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦ VISITOR COUNTER ✦                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+![Visitor Count](https://komarev.com/ghpvc/?username=arcnosixta&label=DOMAIN+VISITORS&color=B8860B&style=for-the-badge&logo=eye&logoColor=FFD700)
+ 
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦ FOOTER ✦                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=16&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=700&lines=✦+ZA+WARUDO...+TOKI+WO+TOMARE+✦;⭐+Star+my+repos+if+you+dare...+⭐;👁+THE+WORLD+HAS+NO+LIMITS+👁" alt="Footer Typing" />
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a0a00,50:B8860B,100:FFD700&section=footer)
+ 
+</div>
+<!-- 
+  ╔══════════════════════════════╗
+  ║  ✦ ARCNOSIXTA README ✦       ║
+  ║  Golden / DIO / JoJo Style   ║
+  ║  Created with 💛 & MUDA MUDA ║
+  ╚══════════════════════════════╝
+-->
+ 
