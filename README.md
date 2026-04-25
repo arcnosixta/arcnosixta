@@ -16,11 +16,10 @@
 | **Saturday** | `Side Projects` | 1 MVP shipped |
 | **Sunday** | **Active Recovery** | Documentation & READMEs |
 
----
 
 ## 📊 Personal Records
 
-```python
+
 class DeveloperStats:
    def __init__(self):
        self.consistency_streak = "🔥 847 days"
