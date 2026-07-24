@@ -1,14 +1,20 @@
+````markdown
 <div align="center">
 
 # 𓆩 House Arcnosixta 𓆪
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8B0000,000000&text=ARCNOSIXTA&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
+<br>
+
+<img src="https://media.tenor.com/GWm4d4Jj3kQAAAAC/house-of-the-dragon-dragon.gif" width="100%"/>
+
 ### *Valar Dohaeris*
 
 ### *Zaldrīzes Buzdari Iksos Daor*
 
 > *"Ñuhor līr gūrēnna. Ñuhor drakarys."*
+>
 > **«Моя кровь принадлежит огню. Моё слово — Дракарис.»**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=26&duration=3500&pause=1000&color=B22222&center=true&vCenter=true&width=900&lines=Dragonlord+of+Code;Forging+Kingdoms+with+AI;Flutter+Developer;Cloud+Architect;Dracarys"/>
@@ -17,7 +23,13 @@
 
 ---
 
+<div align="center">
+
 # 🐉 House Words
+
+<img src="https://media.tenor.com/jv0mJ8jM4i4AAAAC/fire-dragon.gif" width="650"/>
+
+</div>
 
 > **Fire remembers. Code endures.**
 
@@ -25,7 +37,7 @@
 
 # 📜 High Valyrian Scroll
 
-``text
+```text
 Valar Morghulis.
 Valar Dohaeris.
 
@@ -36,13 +48,19 @@ Nyke ēdruta hen sȳndror.
 Nyke ēdruta hen zaldrīzoti.
 
 Dracarys.
-``
+```
 
 ---
 
+<div align="center">
+
+<img src="https://media.tenor.com/Fv0v4wA6D8QAAAAC/house-of-the-dragon-dracarys.gif" width="700"/>
+
+</div>
+
 # ⚔️ Who Am I?
 
-``yaml
+```yaml
 Name: Arcnosixta
 
 Title:
@@ -69,20 +87,26 @@ Magic:
 
 Mission:
   Build products worthy of dragons.
-``
+```
 
 ---
 
 # 🔥 Current Campaigns
 
-* 🏰 AI Legal Platform
-* 🤖 AI Agents
-* 📱 Flutter Applications
-* ☁️ Cloud Infrastructure
-* ⚡ Telegram Ecosystem
-* 🏛 Property Valuation AI
+- 🏰 AI Legal Platform
+- 🤖 AI Agents
+- 📱 Flutter Applications
+- ☁️ Cloud Infrastructure
+- ⚡ Telegram Ecosystem
+- 🏛 Property Valuation AI
 
 ---
+
+<div align="center">
+
+<img src="https://media.tenor.com/rRzH7Qv4mV4AAAAC/game-of-thrones-dragon.gif" width="700"/>
+
+</div>
 
 # ⚔️ Arsenal
 
@@ -97,18 +121,28 @@ Mission:
 # 🐲 Dragon's Wisdom
 
 > **Zaldrīzes buzdari iksos daor.**
+>
 > *A dragon is not a slave.*
 
 > **Sȳz bantis ziry.**
+>
 > *Fire remembers.*
 
 > **Valar Morghulis.**
+>
 > *All men must die.*
 
 > **Valar Dohaeris.**
+>
 > *All men must serve.*
 
 ---
+
+<div align="center">
+
+<img src="https://media.tenor.com/Yw7Yt2V4V6UAAAAC/house-of-the-dragon-dragon.gif" width="900"/>
+
+</div>
 
 # ⚡ GitHub Stats
 
@@ -152,6 +186,8 @@ Mission:
 
 <div align="center">
 
+<img src="https://media.tenor.com/4S8a6PXmNf4AAAAC/dracarys-house-of-the-dragon.gif" width="900"/>
+
 # ☩ DRACARYS ☩
 
 ### *"Fire cannot kill a dragon."*
@@ -159,3 +195,4 @@ Mission:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8B0000&height=160&section=footer"/>
 
 </div>
+````
