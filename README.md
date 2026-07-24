@@ -25,7 +25,7 @@
 
 # 📜 High Valyrian Scroll
 
-```text
+``text
 Valar Morghulis.
 Valar Dohaeris.
 
@@ -36,13 +36,13 @@ Nyke ēdruta hen sȳndror.
 Nyke ēdruta hen zaldrīzoti.
 
 Dracarys.
-```
+``
 
 ---
 
 # ⚔️ Who Am I?
 
-```yaml
+``yaml
 Name: Arcnosixta
 
 Title:
@@ -69,7 +69,7 @@ Magic:
 
 Mission:
   Build products worthy of dragons.
-```
+``
 
 ---
 
