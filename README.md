@@ -1,32 +1,25 @@
-``markdown
 <div align="center">
 
 # 𓆩 House Arcnosixta 𓆪
 
-<img src="https://images.steamusercontent.com/ugc/963109112780300210/6F7E9A28D6D3A6F4C66BEBE7F89D4D8B5D5D7B2F/" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8B0000,000000&text=ARCNOSIXTA&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
-# 𝕬𝖗𝖈𝖓𝖔𝖘𝖎𝖝𝖙𝖆
+### *Valar Dohaeris*
 
-### *"Valar Dohaeris."*
+### *Zaldrīzes Buzdari Iksos Daor*
 
-### *"Zaldrīzes Buzdari Iksos Daor."*
+> *"Ñuhor līr gūrēnna. Ñuhor drakarys."*
+> **«Моя кровь принадлежит огню. Моё слово — Дракарис.»**
 
----
-
-> *"Ñuhor līr gūrēnna. Ñuhor drakarys."*  
-> **"Моя кровь принадлежит огню. Моё слово — Дракарис."**
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=26&duration=3500&pause=1000&color=B22222&center=true&vCenter=true&width=900&lines=Dragonlord+of+Code;Forging+Kingdoms+with+AI;Flutter+Developer;Backend+Engineer;Cloud+Architect;Dracarys"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=26&duration=3500&pause=1000&color=B22222&center=true&vCenter=true&width=900&lines=Dragonlord+of+Code;Forging+Kingdoms+with+AI;Flutter+Developer;Cloud+Architect;Dracarys"/>
 
 </div>
 
 ---
 
-# 🐉 𐕣 House Words
+# 🐉 House Words
 
-> **"Fire remembers. Code endures."**
+> **Fire remembers. Code endures.**
 
 ---
 
@@ -49,7 +42,7 @@ Dracarys.
 
 # ⚔️ Who Am I?
 
-``yaml
+```yaml
 Name: Arcnosixta
 
 Title:
@@ -62,8 +55,8 @@ Location:
 
 Languages:
   - Dart
-  - TypeScript
   - Python
+  - TypeScript
   - JavaScript
 
 Magic:
@@ -71,7 +64,6 @@ Magic:
   - Firebase
   - Supabase
   - AI Agents
-  - Cloudflare
   - Docker
   - Linux
 
@@ -83,17 +75,12 @@ Mission:
 
 # 🔥 Current Campaigns
 
-🏰 AI Legal Platform
-
-🏛 Property Valuation AI
-
-⚡ Telegram Ecosystem
-
-🤖 AI Agents
-
-📱 Flutter Applications
-
-☁️ Cloud Infrastructure
+* 🏰 AI Legal Platform
+* 🤖 AI Agents
+* 📱 Flutter Applications
+* ☁️ Cloud Infrastructure
+* ⚡ Telegram Ecosystem
+* 🏛 Property Valuation AI
 
 ---
 
@@ -110,30 +97,20 @@ Mission:
 # 🐲 Dragon's Wisdom
 
 > **Zaldrīzes buzdari iksos daor.**
-
-*A dragon is not a slave.*
-
----
+> *A dragon is not a slave.*
 
 > **Sȳz bantis ziry.**
-
-*Fire remembers.*
-
----
+> *Fire remembers.*
 
 > **Valar Morghulis.**
-
-*All men must die.*
-
----
+> *All men must die.*
 
 > **Valar Dohaeris.**
-
-*All men must serve.*
+> *All men must serve.*
 
 ---
 
-# ⚡ GitHub
+# ⚡ GitHub Stats
 
 <p align="center">
 
@@ -157,31 +134,19 @@ Mission:
 
 ---
 
-# 🐲 Dragon Banner
-
-<p align="center">
-
-<img src="https://media.tenor.com/Yw7Yt2V4V6UAAAAC/house-of-the-dragon-dragon.gif" width="100%"/>
-
-</p>
-
----
-
 # ⚜ Ancient Oath
 
-```text
-I do not seek the throne.
-
-I forge it.
-
-I do not inherit kingdoms.
-
-I build them.
-
-I do not wait for dragons.
-
-I become one.
-```
+> I do not seek the throne.
+>
+> I forge it.
+>
+> I do not inherit kingdoms.
+>
+> I build them.
+>
+> I do not wait for dragons.
+>
+> **I become one.**
 
 ---
 
@@ -189,9 +154,8 @@ I become one.
 
 # ☩ DRACARYS ☩
 
-### "Fire cannot kill a dragon."
+### *"Fire cannot kill a dragon."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,000000&height=180&section=footer&text=Valar%20Dohaeris&fontColor=ffffff&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8B0000&height=160&section=footer"/>
 
 </div>
-````
