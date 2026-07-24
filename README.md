@@ -1,4 +1,4 @@
-````markdown
+``markdown
 <div align="center">
 
 # 𓆩 House Arcnosixta 𓆪
@@ -37,7 +37,7 @@
 
 # 📜 High Valyrian Scroll
 
-```text
+``text
 Valar Morghulis.
 Valar Dohaeris.
 
@@ -48,7 +48,7 @@ Nyke ēdruta hen sȳndror.
 Nyke ēdruta hen zaldrīzoti.
 
 Dracarys.
-```
+``
 
 ---
 
@@ -60,7 +60,7 @@ Dracarys.
 
 # ⚔️ Who Am I?
 
-```yaml
+``yaml
 Name: Arcnosixta
 
 Title:
@@ -87,7 +87,7 @@ Magic:
 
 Mission:
   Build products worthy of dragons.
-```
+``
 
 ---
 
