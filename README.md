@@ -1,198 +1,182 @@
-``markdown
-<div align="center">
+# ESEP — Roadmap и архитектура (графы)
 
-# 𓆩 House Arcnosixta 𓆪
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8B0000,000000&text=ARCNOSIXTA&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
-
-<br>
-
-<img src="https://media.tenor.com/GWm4d4Jj3kQAAAAC/house-of-the-dragon-dragon.gif" width="100%"/>
-
-### *Valar Dohaeris*
-
-### *Zaldrīzes Buzdari Iksos Daor*
-
-> *"Ñuhor līr gūrēnna. Ñuhor drakarys."*
->
-> **«Моя кровь принадлежит огню. Моё слово — Дракарис.»**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=26&duration=3500&pause=1000&color=B22222&center=true&vCenter=true&width=900&lines=Dragonlord+of+Code;Forging+Kingdoms+with+AI;Flutter+Developer;Cloud+Architect;Dracarys"/>
-
-</div>
+> Графическая версия роадмапа. Текстовые версии: [Roadmap.txt](Roadmap.txt), финансы — [Tools.txt](Tools.txt).
+> Диаграммы в формате Mermaid — GitHub рендерит их автоматически (вкладка на странице файла).
 
 ---
 
-<div align="center">
+## 1. Архитектура системы
 
-# 🐉 House Words
+```mermaid
+flowchart TB
+    subgraph Client["Клиенты — единый Flutter-код"]
+        WEB["Flutter Web<br/>(браузер / PWA)"]
+        MOB["Flutter app<br/>(iOS / Android)"]
+    end
 
-<img src="https://media.tenor.com/jv0mJ8jM4i4AAAAC/fire-dragon.gif" width="650"/>
+    subgraph CF["Cloudflare Pages"]
+        EDGE["Edge-функция /api/chat<br/>(проверка JWT, ключи ИИ)"]
+        STATIC["Статика: build/web"]
+    end
 
-</div>
+    subgraph SB["Supabase"]
+        AUTH["Auth (JWT)"]
+        DB[("Postgres + RLS<br/>12 таблиц")]
+        STO[("Storage<br/>reports/ — приватный<br/>user-docs/")]
+    end
 
-> **Fire remembers. Code endures.**
+    subgraph AI["ИИ-провайдеры"]
+        GEM["Gemini API<br/>(основной: текст, фото, поиск)"]
+        OR["OpenRouter<br/>(фолбэк: Gemma free)"]
+    end
 
----
+    WEB -->|"HTTPS"| STATIC
+    WEB -->|"REST + JWT"| EDGE
+    MOB -->|"REST + JWT"| EDGE
+    EDGE --> GEM
+    EDGE -.->|"при лимитах"| OR
+    WEB -->|"Supabase SDK"| AUTH
+    MOB -->|"Supabase SDK"| AUTH
+    AUTH --> DB
+    WEB --> DB
+    MOB --> DB
+    WEB --> STO
+    MOB --> STO
+    EDGE -->|"проверка профиля"| DB
 
-# 📜 High Valyrian Scroll
-
-``text
-Valar Morghulis.
-Valar Dohaeris.
-
-Nyke Arcnosixta.
-
-Nyke ēdruta hen ānogar.
-Nyke ēdruta hen sȳndror.
-Nyke ēdruta hen zaldrīzoti.
-
-Dracarys.
-``
-
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/Fv0v4wA6D8QAAAAC/house-of-the-dragon-dracarys.gif" width="700"/>
-
-</div>
-
-# ⚔️ Who Am I?
-
-``yaml
-Name: Arcnosixta
-
-Title:
-  - Dragonlord of Code
-  - Builder of Intelligent Systems
-  - Keeper of Valyrian Fire
-
-Location:
-  - Kazakhstan
-
-Languages:
-  - Dart
-  - Python
-  - TypeScript
-  - JavaScript
-
-Magic:
-  - Flutter
-  - Firebase
-  - Supabase
-  - AI Agents
-  - Docker
-  - Linux
-
-Mission:
-  Build products worthy of dragons.
-``
+    style GEM fill:#1a73e8,color:#fff
+    style OR fill:#f57c00,color:#fff
+    style EDGE fill:#f38020,color:#fff
+    style SB fill:#3ecf8e,color:#000
+```
 
 ---
 
-# 🔥 Current Campaigns
+## 2. Путь клиента (пользовательский сценарий)
 
-- 🏰 AI Legal Platform
-- 🤖 AI Agents
-- 📱 Flutter Applications
-- ☁️ Cloud Infrastructure
-- ⚡ Telegram Ecosystem
-- 🏛 Property Valuation AI
+```mermaid
+flowchart LR
+    A["1. Регистрация<br/>email + пароль"] --> B["2. Онбординг<br/>(5 шагов-экскурсия)"]
+    B --> C["3. Профиль<br/>ФИО + ИИН/БИН<br/>(1 ИИН = 1 аккаунт)"]
+    C --> D["4. ИИ-чат<br/>описание текстом или фото"]
+    D --> E["5. Оценка стоимости<br/>±10-15% #91;ESTIMATE#93;"]
+    E --> F["6. Оплата<br/>15 000 ₸ (Kaspi / перевод)"]
+    F --> G["7. Оценщик работает<br/>статус in_progress"]
+    G --> H["8. Предпросмотр PDF<br/>с водяным знаком"]
+    H --> I["9. ЭЦП-подпись оценщика<br/>(NCALayer / .cms)"]
+    I --> J["10. Скачивание<br/>официального отчёта"]
 
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/rRzH7Qv4mV4AAAAC/game-of-thrones-dragon.gif" width="700"/>
-
-</div>
-
-# ⚔️ Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,typescript,js,nodejs,firebase,supabase,docker,linux,git,github,cloudflare,figma,vscode"/>
-
-</p>
+    style F fill:#22c55e,color:#fff
+    style I fill:#1a73e8,color:#fff
+    style J fill:#16a34a,color:#fff
+```
 
 ---
 
-# 🐲 Dragon's Wisdom
+## 3. Жизненный цикл заявки (state diagram)
 
-> **Zaldrīzes buzdari iksos daor.**
->
-> *A dragon is not a slave.*
+```mermaid
+stateDiagram-v2
+    [*] --> new: клиент создал заявку (manual или AI)
+    new --> pending_payment: клиент нажал «Оплатить»
+    pending_payment --> paid: админ подтвердил оплату
+    paid --> in_progress: оценщик взял заявку
+    in_progress --> signed: оценщик подписал ЭЦП
+    signed --> completed: отчёт готов
+    completed --> [*]
 
-> **Sȳz bantis ziry.**
->
-> *Fire remembers.*
+    new --> rejected: админ отклонил
+    pending_payment --> new: клиент отменил оплату
+    in_progress --> completed: отчёт готов (без ЭЦП)
 
-> **Valar Morghulis.**
->
-> *All men must die.*
-
-> **Valar Dohaeris.**
->
-> *All men must serve.*
-
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/Yw7Yt2V4V6UAAAAC/house-of-the-dragon-dragon.gif" width="900"/>
-
-</div>
-
-# ⚡ GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=arcnosixta&theme=dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=github-dark&hide_border=true"/>
-
-</p>
+    note right of paid: официальный PDF доступен только после paid
+    note right of signed: подписывать может только оценщик/админ
+```
 
 ---
 
-# ⚜ Ancient Oath
+## 4. Путь оценщика
 
-> I do not seek the throne.
->
-> I forge it.
->
-> I do not inherit kingdoms.
->
-> I build them.
->
-> I do not wait for dragons.
->
-> **I become one.**
+```mermaid
+flowchart TB
+    L["Лента заявок"] --> M{"Доступные или мои?"}
+    M -->|"доступные (new)"| T["Взять заявку<br/>→ in_progress"]
+    M -->|"мои"| T
+    T --> W["Работа: документы клиента,<br/>данные объекта, ИИ-помощь"]
+    W --> G["Генерация PDF-отчёта<br/>(шаблон GaMa Group)"]
+    G --> S{"Подпись ЭЦП"}
+    S -->|"NCALayer (свой ключ)"| OK["Подписано + проверено"]
+    S -->|"загрузка .cms (ezSigner)"| OK
+    OK --> D["Заявка completed<br/>клиент видит отчёт"]
+```
 
 ---
 
-<div align="center">
+## 5. Этапы продукта (timeline)
 
-<img src="https://media.tenor.com/4S8a6PXmNf4AAAAC/dracarys-house-of-the-dragon.gif" width="900"/>
+```mermaid
+timeline
+    title ESEP — Roadmap 2026
+    19.07 - 11.08.2026 : Этап 1 — MVP (готово)
+                       : ИИ-оценка по тексту/фото
+                       : Оплата (ручное подтверждение)
+                       : PDF-отчёт + ЭЦП оценщика
+                       : Security-аудит
+    Август-сентябрь 2026 : Этап 2 — Продакшен (в работе)
+                         : Kaspi Pay / PayBox
+                         : Домен
+                         : eGov QR-подпись (Smart Bridge)
+                         : Уведомления (push, WhatsApp)
+```
 
-# ☩ DRACARYS ☩
+---
 
-### *"Fire cannot kill a dragon."*
+## 6. План работ Этапа 2 (gantt)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8B0000&height=160&section=footer"/>
+```mermaid
+gantt
+    title Этап 2 — Продакшен-готовность (август-сентябрь 2026)
+    dateFormat  YYYY-MM-DD
+    section Платежи
+    Kaspi Pay / PayBox (вебхук)      :p1, 2026-08-15, 30d
+    section Домен и доверие
+    Домен + почта            :p2, 2026-08-15, 14d
+    Юр. оформление (оферта, ПДн)     :p3, 2026-09-01, 30d
+    section Интеграции
+    eGov QR-подпись (NITEC-S-5096)   :p4, 2026-08-20, 25d
+    SIGEX / TrustMe (массовое)       :p5, 2026-09-01, 20d
+    section Мобильные
+    Push-уведомления                 :p7, 2026-09-15, 15d
+    section Качество
+    Автотесты + CI-гейты             :p8, 2026-08-15, 21d
+    Мониторинг (Sentry) + аналитика  :p9, 2026-08-20, 14d
+```
 
-</div>
-````
+---
+
+## 7. Роли и доступы
+
+```mermaid
+flowchart TB
+    subgraph Roles["Роли"]
+        CL["Клиент"]
+        AP["Оценщик"]
+        AD["Админ"]
+    end
+
+    subgraph Perms["Ключевые права"]
+        P1["Заказать оценку, оплатить,<br/>скачать официальный PDF"]
+        P2["Взять заявку, готовить отчёт,<br/>подписывать ЭЦП"]
+        P3["Подтверждать оплаты,<br/>управлять пользователями"]
+    end
+
+    CL --> P1
+    AP --> P2
+    AD --> P3
+    AD -->|"назначает роль"| AP
+    AD -->|"блокировка"| CL
+```
+
+---
+
+*Сгенерировано 11.08.2026. Файлы: [Roadmap.txt](Roadmap.txt) (текст), [Tools.txt](Tools.txt) (финансы и инструменты).*
