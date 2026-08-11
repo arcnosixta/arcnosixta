@@ -174,4 +174,3 @@ flowchart TB
 
 ---
 
-*Сгенерировано 11.08.2026. Файлы: [Roadmap.txt](Roadmap.txt) (текст), [Tools.txt](Tools.txt) (финансы и инструменты).*
