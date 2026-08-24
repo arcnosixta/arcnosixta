@@ -1,176 +1,258 @@
-# ESEP — Roadmap и архитектура (графы)
+<div align="center">
 
-## 1. Архитектура системы
+<!-- Domain Expansion GIF -->
+<img src="[https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif](https://www.wallpaperflare.com/search?wallpaper=aizen)" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
 
-```mermaid
-flowchart TB
-    subgraph Client["Клиенты — единый Flutter-код"]
-        WEB["Flutter Web<br/>(браузер / PWA)"]
-        MOB["Flutter app<br/>(iOS / Android)"]
-    end
+<!-- Name under domain -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=◈+arcnosixta+◈" />
+</p>
 
-    subgraph CF["Cloudflare Pages"]
-        EDGE["Edge-функция /api/chat<br/>(проверка JWT, ключи ИИ)"]
-        STATIC["Статика: build/web"]
-    end
+<!-- Aizen Throne -->
+<p align="center">
+  <img src="aizen.jpg" width="80%" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+</p>
 
-    subgraph SB["Supabase"]
-        AUTH["Auth (JWT)"]
-        DB[("Postgres + RLS<br/>12 таблиц")]
-        STO[("Storage<br/>reports/ — приватный<br/>user-docs/")]
-    end
+<!-- Full width divider -->
+<img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
 
-    subgraph AI["ИИ-провайдеры"]
-        GEM["Gemini API<br/>(основной: текст, фото, поиск)"]
-        OR["OpenRouter<br/>(фолбэк: Gemma free)"]
-    end
+<!-- Aizen Power -->
+<img src="https://media.tenor.com/vbC1gB0J3EMAAAAC/aizen-sosuke-aizen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
 
-    WEB -->|"HTTPS"| STATIC
-    WEB -->|"REST + JWT"| EDGE
-    MOB -->|"REST + JWT"| EDGE
-    EDGE --> GEM
-    EDGE -.->|"при лимитах"| OR
-    WEB -->|"Supabase SDK"| AUTH
-    MOB -->|"Supabase SDK"| AUTH
-    AUTH --> DB
-    WEB --> DB
-    MOB --> DB
-    WEB --> STO
-    MOB --> STO
-    EDGE -->|"проверка профиля"| DB
+<!-- Kyoka Suigetsu -->
+<img src="https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
 
-    style GEM fill:#1a73e8,color:#fff
-    style OR fill:#f57c00,color:#fff
-    style EDGE fill:#f38020,color:#fff
-    style SB fill:#3ecf8e,color:#000
-```
+<!-- Kanji -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=鏡花水月;完全催眠" />
+</p>
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED,1E1B4B,8B5CF6"/>
+</p>
 
-## 2. Путь клиента (пользовательский сценарий)
+<!-- Roles -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8B5CF6&center=true&vCenter=true&width=800&lines=▣+5th+Division+Captain+▣;⚉+Zanpakutō:+Kyōka+Suigetsu+⚉;⚉+Shikai:+Illusion+Type+⚉" />
+</p>
 
-```mermaid
-flowchart LR
-    A["1. Регистрация<br/>email + пароль"] --> B["2. Онбординг<br/>(5 шагов-экскурсия)"]
-    B --> C["3. Профиль<br/>ФИО + ИИН/БИН<br/>(1 ИИН = 1 аккаунт)"]
-    C --> D["4. ИИ-чат<br/>описание текстом или фото"]
-    D --> E["5. Оценка стоимости<br/>±10-15% #91;ESTIMATE#93;"]
-    E --> F["6. Оплата<br/>15 000 ₸ (Kaspi / перевод)"]
-    F --> G["7. Оценщик работает<br/>статус in_progress"]
-    G --> H["8. Предпросмотр PDF<br/>с водяным знаком"]
-    H --> I["9. ЭЦП-подпись оценщика<br/>(NCALayer / .cms)"]
-    I --> J["10. Скачивание<br/>официального отчёта"]
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚉_RANK-CAPTAIN-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
+  <img src="https://img.shields.io/badge/⚉_ZANPAKUTŌ-KYŌKA_SUIGETSU-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
+  <img src="https://img.shields.io/badge/⚉_TYPE-ILLUSION-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
+  <img src="https://img.shields.io/badge/⚉_STATUS-SEALED-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
+</p>
 
-    style F fill:#22c55e,color:#fff
-    style I fill:#1a73e8,color:#fff
-    style J fill:#16a34a,color:#fff
-```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
----
+</div>
 
-## 3. Жизненный цикл заявки (state diagram)
+⚉ About Me — Reiatsu Flow
+<div align="center">
 
-```mermaid
-stateDiagram-v2
-    [*] --> new: клиент создал заявку (manual или AI)
-    new --> pending_payment: клиент нажал «Оплатить»
-    pending_payment --> paid: админ подтвердил оплату
-    paid --> in_progress: оценщик взял заявку
-    in_progress --> signed: оценщик подписал ЭЦП
-    signed --> completed: отчёт готов
-    completed --> [*]
+    ╔══════════════════════════════════════════════════════════════════╗
+    ║  ⚉  Kidō Mastery                    ████████████████░░░░  100% ║
+    ║  ⚉  Zanjutsu Expert                 ████████████████░░░░  100% ║
+    ║  ⚉  Hohō Flash God                  ████████████████░░░░  100% ║
+    ║  ⚉  Hakuda Combat                   ███████████████░░░░░   95% ║
+    ║  ⚉  Intellect Transcendent          ████████████████░░░░  100% ║
+    ╚══════════════════════════════════════════════════════════════════╝
+</div>
 
-    new --> rejected: админ отклонил
-    pending_payment --> new: клиент отменил оплату
-    in_progress --> completed: отчёт готов (без ЭЦП)
+⚉ Innate Technique — Soul Reaper Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,js,html,css&theme=dark&perline=5" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-7C3AED?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-8B5CF6?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat-square&logo=typescript&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=1E1B4B"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6"/>
+</p>
 
-    note right of paid: официальный PDF доступен только после paid
-    note right of signed: подписывать может только оценщик/админ
-```
+⚉ Featured Technique — Kyōka Suigetsu Domain
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif" width="350" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 25px #8B5CF6;"/>
+    </td>
+    <td align="left" width="50%">
+      <h3 align="center">◈ Domain: Kanzen Saimin ◈</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Technique-ILLUSION-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
+        <img src="https://img.shields.io/badge/Type-WATER+MOON-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
+      </p>
+      <ul>
+        <li>⚉ Complete Hypnosis — Five Senses Control</li>
+        <li>⚉ Eternal Illusion — Once Seen, Always Bound</li>
+        <li>⚉ Reiatsu Suppression — Undetectable Presence</li>
+        <li>⚉ Absolute Deception — Reality Manipulation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+⚉ Battle Stats — Spiritual Pressure
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&border_color=7C3AED" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=1E1B4B&stroke=8B5CF6&fire=7C3AED&ring=8B5CF6&currStreakNum=C4B5FD&sideNums=C4B5FD" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&text_color=C4B5FD&border_color=7C3AED" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=redical&hide_border=true&area=true&color=7C3AED&line=8B5CF6&point=C4B5FD&bg_color=1E1B4B" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=8B5CF6"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED,1E1B4B,8B5CF6"/>
+</p>
 
-## 4. Путь оценщика
+⚉ Espada Roster — Arrancar Army
+<table align="center">
+  <tr>
+    <td align="center"><b>#</b></td>
+    <td align="center"><b>Name</b></td>
+    <td align="center"><b>Aspect</b></td>
+    <td align="center"><b>Status</b></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Coyote Starrk</td>
+    <td align="center">Solitude</td>
+    <td align="center">💀</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Baraggan Louisenbairn</td>
+    <td align="center">Aging</td>
+    <td align="center">💀</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Tier Harribel</td>
+    <td align="center">Sacrifice</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Ulquiorra Cifer</td>
+    <td align="center">Emptiness</td>
+    <td align="center">💀</td>
+  </tr>
+  <tr>
+    <td align="center">5</td>
+    <td align="center">Nnoitra Gilga</td>
+    <td align="center">Despair</td>
+    <td align="center">💀</td>
+  </tr>
+  <tr>
+    <td align="center">6</td>
+    <td align="center">Grimmjow Jaegerjaquez</td>
+    <td align="center">Destruction</td>
+    <td align="center">✅</td>
+  </tr>
+</table>
 
-```mermaid
-flowchart TB
-    L["Лента заявок"] --> M{"Доступные или мои?"}
-    M -->|"доступные (new)"| T["Взять заявку<br/>→ in_progress"]
-    M -->|"мои"| T
-    T --> W["Работа: документы клиента,<br/>данные объекта, ИИ-помощь"]
-    W --> G["Генерация PDF-отчёта<br/>(шаблон GaMa Group)"]
-    G --> S{"Подпись ЭЦП"}
-    S -->|"NCALayer (свой ключ)"| OK["Подписано + проверено"]
-    S -->|"загрузка .cms (ezSigner)"| OK
-    OK --> D["Заявка completed<br/>клиент видит отчёт"]
-```
+⚉ Hōgyoku Evolution — Forms of Transcendence
+<table align="center">
+  <tr>
+    <td align="center"><b>Form</b></td>
+    <td align="center"><b>Appearance</b></td>
+    <td align="center"><b>Power Level</b></td>
+  </tr>
+  <tr>
+    <td align="center">Standard</td>
+    <td align="center">Glasses, Brown Hair</td>
+    <td align="center">Captain</td>
+  </tr>
+  <tr>
+    <td align="center">Post-Hōgyoku</td>
+    <td align="center">Slicked Back Hair</td>
+    <td align="center">Transcendent</td>
+  </tr>
+  <tr>
+    <td align="center">Chrysalis</td>
+    <td align="center">White Cocoon</td>
+    <td align="center">Evolving</td>
+  </tr>
+  <tr>
+    <td align="center">First Fusion</td>
+    <td align="center">White Armor</td>
+    <td align="center">Near-God</td>
+  </tr>
+  <tr>
+    <td align="center">Second Fusion</td>
+    <td align="center">Butterfly Wings</td>
+    <td align="center">Godlike</td>
+  </tr>
+  <tr>
+    <td align="center">Final Form</td>
+    <td align="center">Monster</td>
+    <td align="center">Ultimate</td>
+  </tr>
+</table>
 
----
+⚉ Famous Quotes — Words of a God
+<table align="center">
+  <tr>
+    <td align="center"><b>Japanese</b></td>
+    <td align="center"><b>English</b></td>
+    <td align="center"><b>Context</b></td>
+  </tr>
+  <tr>
+    <td align="center">私は神になりたいのではない。神を超えたいのだ。</td>
+    <td align="center">"I do not wish to become God. I wish to surpass Him."</td>
+    <td align="center">Ambition</td>
+  </tr>
+  <tr>
+    <td align="center">絶望とは、完全に目を開いた状態である。</td>
+    <td align="center">"Despair is a state of having one's eyes fully open."</td>
+    <td align="center">Philosophy</td>
+  </tr>
+  <tr>
+    <td align="center">戦いとは、欺き合いである。</td>
+    <td align="center">"Battle is a matter of mutual deception."</td>
+    <td align="center">Strategy</td>
+  </tr>
+  <tr>
+    <td align="center">鏡に映る花の如く、水に映る月の如く。</td>
+    <td align="center">"Like the flower in the mirror, like the moon on the water."</td>
+    <td align="center">Kyōka Suigetsu</td>
+  </tr>
+</table>
 
-## 5. Этапы продукта (timeline)
-
-```mermaid
-timeline
-    title ESEP — Roadmap 2026
-    19.07 - 11.08.2026 : Этап 1 — MVP (готово)
-                       : ИИ-оценка по тексту/фото
-                       : Оплата (ручное подтверждение)
-                       : PDF-отчёт + ЭЦП оценщика
-                       : Security-аудит
-    Август-сентябрь 2026 : Этап 2 — Продакшен (в работе)
-                         : Kaspi Pay / PayBox
-                         : Домен
-                         : eGov QR-подпись (Smart Bridge)
-                         : Уведомления (push, WhatsApp)
-```
-
----
-
-## 6. План работ Этапа 2 (gantt)
-
-```mermaid
-gantt
-    title Этап 2 — Продакшен-готовность (август-сентябрь 2026)
-    dateFormat  YYYY-MM-DD
-    section Платежи
-    Kaspi Pay / PayBox (вебхук)      :p1, 2026-08-15, 30d
-    section Домен и доверие
-    Домен + почта            :p2, 2026-08-15, 14d
-    Юр. оформление (оферта, ПДн)     :p3, 2026-09-01, 30d
-    section Интеграции
-    eGov QR-подпись (NITEC-S-5096)   :p4, 2026-08-20, 25d
-    SIGEX / TrustMe (массовое)       :p5, 2026-09-01, 20d
-    section Мобильные
-    Push-уведомления                 :p7, 2026-09-15, 15d
-    section Качество
-    Автотесты + CI-гейты             :p8, 2026-08-15, 21d
-    Мониторинг (Sentry) + аналитика  :p9, 2026-08-20, 14d
-```
-
----
-
-## 7. Роли и доступы
-
-```mermaid
-flowchart TB
-    subgraph Roles["Роли"]
-        CL["Клиент"]
-        AP["Оценщик"]
-        AD["Админ"]
-    end
-
-    subgraph Perms["Ключевые права"]
-        P1["Заказать оценку, оплатить,<br/>скачать официальный PDF"]
-        P2["Взять заявку, готовить отчёт,<br/>подписывать ЭЦП"]
-        P3["Подтверждать оплаты,<br/>управлять пользователями"]
-    end
-
-    CL --> P1
-    AP --> P2
-    AD --> P3
-    AD -->|"назначает роль"| AP
-    AD -->|"блокировка"| CL
-```
-
----
-
+⚉ Contact — Spiritual Link
+<p align="center">
+  <a href="https://t.me/arcnosixta">
+    <img src="https://img.shields.io/badge/TELEGRAM-7C3AED?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E1B4B"/>
+  </a>
+  <a href="mailto:arcnosixta@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B"/>
+  </a>
+  <a href="https://github.com/arcnosixta">
+    <img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arcnosixta&label=REIATSU+LEVEL&color=7C3AED&style=for-the-badge&logo=eye&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1E1B4B,50:7C3AED,100:8B5CF6&section=footer&animation=twinkling"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=24&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=砕けよ、鏡花水月;Shatter.+Control.+Transcend.+%E2%9A%89" />
+</p>
