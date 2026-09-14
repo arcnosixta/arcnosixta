@@ -1,258 +1,210 @@
 <div align="center">
 
-<!-- Domain Expansion GIF -->
-<img src="[https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif](https://www.wallpaperflare.com/search?wallpaper=aizen)" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+<style>
+  @keyframes glow {
+    0%, 100% { box-shadow: 0 0 20px #fff, 0 0 40px #fff; }
+    50% { box-shadow: 0 0 40px #fff, 0 0 80px #fff, 0 0 120px #aaa; }
+  }
+  @keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff; }
+    20%, 24%, 55% { opacity: 0.6; text-shadow: none; }
+  }
+  @keyframes pulse-border {
+    0%, 100% { border-color: #333; box-shadow: 0 0 10px rgba(255,255,255,0.1); }
+    50% { border-color: #fff; box-shadow: 0 0 30px rgba(255,255,255,0.4); }
+  }
+  @keyframes scanline {
+    0% { transform: translateY(-100%); }
+    100% { transform: translateY(100%); }
+  }
+  @keyframes gradient-shift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  @keyframes fade-in-up {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .glow-text {
+    animation: flicker 4s infinite;
+    color: #fff;
+  }
+  .glow-img {
+    animation: glow 3s ease-in-out infinite;
+    border: 2px solid #fff;
+    border-radius: 12px;
+  }
+  .pulse-box {
+    animation: pulse-border 2s ease-in-out infinite;
+    border: 2px solid #333;
+    border-radius: 12px;
+    padding: 20px;
+    background: #0a0a0a;
+  }
+  .gradient-bar {
+    height: 3px;
+    background: linear-gradient(90deg, #000, #fff, #000, #fff, #000);
+    background-size: 400% 100%;
+    animation: gradient-shift 3s linear infinite;
+  }
+  .fade-section {
+    animation: fade-in-up 0.8s ease-out both;
+  }
+</style>
 
-<!-- Name under domain -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=◈+arcnosixta+◈" />
-</p>
+<!-- Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,25:111111,50:222222,75:111111,100:000000&section=header&animation=twinkling&text=arcnosixta&fontSize=80&fontColor=ffffff&fontAlignY=35&descAlignY=55" width="100%"/>
 
-<!-- Aizen Throne -->
-<p align="center">
-  <img src="aizen.jpg" width="80%" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
-</p>
+<br/>
 
-<!-- Full width divider -->
-<img src="https://media.tenor.com/4Jh2y6x9KZ0AAAAC/sukuna-domain-expansion-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+<!-- Name -->
+<h1 class="glow-text" style="font-family: 'Courier New', monospace; font-size: 50px; letter-spacing: 8px; margin: 20px 0;">
+  &#9670; arcnosixta &#9670;
+</h1>
 
-<!-- Aizen Power -->
-<img src="https://media.tenor.com/vbC1gB0J3EMAAAAC/aizen-sosuke-aizen.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+<!-- Profile Image with Glow -->
+<div class="glow-img" style="display: inline-block; padding: 5px; background: #000;">
+  <img src="aizen.jpg" width="300" style="border-radius: 10px; display: block;"/>
+</div>
 
-<!-- Kyoka Suigetsu -->
-<img src="https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #7C3AED; box-shadow: 0 0 50px #8B5CF6;"/>
+<!-- Animated Divider -->
+<div class="gradient-bar" style="width: 80%; margin: 30px auto; border-radius: 2px;"></div>
 
-<!-- Kanji -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=40&duration=1&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=鏡花水月;完全催眠" />
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED,1E1B4B,8B5CF6"/>
-</p>
-
-<!-- Roles -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8B5CF6&center=true&vCenter=true&width=800&lines=▣+5th+Division+Captain+▣;⚉+Zanpakutō:+Kyōka+Suigetsu+⚉;⚉+Shikai:+Illusion+Type+⚉" />
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚉_RANK-CAPTAIN-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-  <img src="https://img.shields.io/badge/⚉_ZANPAKUTŌ-KYŌKA_SUIGETSU-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-  <img src="https://img.shields.io/badge/⚉_TYPE-ILLUSION-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-  <img src="https://img.shields.io/badge/⚉_STATUS-SEALED-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Status Badges -->
+<p class="fade-section" style="animation-delay: 0.2s;">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=111111&color=ffffff&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CODING-IN_PROGRESS-000000?style=for-the-badge&labelColor=111111&color=ffffff&logo=visualstudio&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=arcnosixta&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=111111&logo=eye&logoColor=white"/>
 </p>
 
 </div>
 
-⚉ About Me — Reiatsu Flow
-<div align="center">
+---
 
-    ╔══════════════════════════════════════════════════════════════════╗
-    ║  ⚉  Kidō Mastery                    ████████████████░░░░  100% ║
-    ║  ⚉  Zanjutsu Expert                 ████████████████░░░░  100% ║
-    ║  ⚉  Hohō Flash God                  ████████████████░░░░  100% ║
-    ║  ⚉  Hakuda Combat                   ███████████████░░░░░   95% ║
-    ║  ⚉  Intellect Transcendent          ████████████████░░░░  100% ║
-    ╚══════════════════════════════════════════════════════════════════╝
+<div align="center" class="fade-section" style="animation-delay: 0.4s;">
+
+## <span class="glow-text" style="font-family: 'Courier New', monospace; font-size: 22px;">/// About Me ///</span>
+
 </div>
 
-⚉ Innate Technique — Soul Reaper Stack
-<p align="center">
+<div class="pulse-box" style="max-width: 700px; margin: 20px auto;">
+
+```
+> whoami
+arcnosixta
+
+> cat /etc/motd
+Developer. Builder. Night Coder.
+I build things that work in the dark.
+
+> uname -a
+Linux arcnosixta 6.x x86_64 GNU/Darkness
+
+> uptime
+Online since forever. No downtime.
+```
+
+</div>
+
+<div align="center" class="fade-section" style="animation-delay: 0.6s;">
+
+<div class="gradient-bar" style="width: 60%; margin: 40px auto; border-radius: 2px;"></div>
+
+## <span class="glow-text" style="font-family: 'Courier New', monospace; font-size: 22px;">/// Tech Stack ///</span>
+
+<p style="margin-top: 15px;">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,js,html,css&theme=dark&perline=5" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-7C3AED?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-8B5CF6?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat-square&logo=typescript&logoColor=8B5CF6"/>
-  <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=1E1B4B"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white&labelColor=222222"/>
 </p>
 
-⚉ Featured Technique — Kyōka Suigetsu Domain
-<table align="center">
+<div class="gradient-bar" style="width: 40%; margin: 30px auto; border-radius: 2px;"></div>
+
+</div>
+
+<div align="center" class="fade-section" style="animation-delay: 0.8s;">
+
+## <span class="glow-text" style="font-family: 'Courier New', monospace; font-size: 22px;">/// Stats ///</span>
+
+<p style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&border_color=222222" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=dark&hide_border=true&background=000000&stroke=ffffff&fire=ffffff&ring=ffffff&currStreakNum=aaaaaa&sideNums=aaaaaa" height="180"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222" height="150"/>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=dark&hide_border=true&area=true&color=ffffff&line=aaaaaa&point=ffffff&bg_color=000000" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=dark&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=ffffff"/>
+</p>
+
+</div>
+
+<div align="center" class="fade-section" style="animation-delay: 1.0s;">
+
+<div class="gradient-bar" style="width: 60%; margin: 40px auto; border-radius: 2px;"></div>
+
+## <span class="glow-text" style="font-family: 'Courier New', monospace; font-size: 22px;">/// Featured Projects ///</span>
+
+<table style="margin: 20px auto; border-collapse: separate; border-spacing: 10px;">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://media.tenor.com/0Kx9yT8r4Q8AAAAC/kyoka-suigetsu-bleach.gif" width="350" style="border-radius: 15px; border: 4px solid #7C3AED; box-shadow: 0 0 25px #8B5CF6;"/>
+    <td class="pulse-box" style="width: 300px; text-align: center;">
+      <h3 style="color: #fff; font-family: 'Courier New', monospace;">Project Alpha</h3>
+      <p style="color: #aaa; font-size: 14px;">Full-stack application</p>
+      <img src="https://img.shields.io/badge/FLUTTER-000000?style=flat&logo=flutter&logoColor=white&labelColor=222222"/>
+      <img src="https://img.shields.io/badge/FIREBASE-000000?style=flat&logo=firebase&logoColor=white&labelColor=222222"/>
     </td>
-    <td align="left" width="50%">
-      <h3 align="center">◈ Domain: Kanzen Saimin ◈</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Technique-ILLUSION-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-        <img src="https://img.shields.io/badge/Type-WATER+MOON-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B"/>
-      </p>
-      <ul>
-        <li>⚉ Complete Hypnosis — Five Senses Control</li>
-        <li>⚉ Eternal Illusion — Once Seen, Always Bound</li>
-        <li>⚉ Reiatsu Suppression — Undetectable Presence</li>
-        <li>⚉ Absolute Deception — Reality Manipulation</li>
-      </ul>
+    <td class="pulse-box" style="width: 300px; text-align: center;">
+      <h3 style="color: #fff; font-family: 'Courier New', monospace;">Project Beta</h3>
+      <p style="color: #aaa; font-size: 14px;">API & Backend</p>
+      <img src="https://img.shields.io/badge/NODE-000000?style=flat&logo=node.js&logoColor=white&labelColor=222222"/>
+      <img src="https://img.shields.io/badge/TS-000000?style=flat&logo=typescript&logoColor=white&labelColor=222222"/>
     </td>
   </tr>
 </table>
 
-⚉ Battle Stats — Spiritual Pressure
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&border_color=7C3AED" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=1E1B4B&stroke=8B5CF6&fire=7C3AED&ring=8B5CF6&currStreakNum=C4B5FD&sideNums=C4B5FD" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&text_color=C4B5FD&border_color=7C3AED" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&theme=redical&hide_border=true&area=true&color=7C3AED&line=8B5CF6&point=C4B5FD&bg_color=1E1B4B" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=8B5CF6"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED,1E1B4B,8B5CF6"/>
-</p>
+</div>
 
-⚉ Espada Roster — Arrancar Army
-<table align="center">
-  <tr>
-    <td align="center"><b>#</b></td>
-    <td align="center"><b>Name</b></td>
-    <td align="center"><b>Aspect</b></td>
-    <td align="center"><b>Status</b></td>
-  </tr>
-  <tr>
-    <td align="center">1</td>
-    <td align="center">Coyote Starrk</td>
-    <td align="center">Solitude</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">2</td>
-    <td align="center">Baraggan Louisenbairn</td>
-    <td align="center">Aging</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">3</td>
-    <td align="center">Tier Harribel</td>
-    <td align="center">Sacrifice</td>
-    <td align="center">✅</td>
-  </tr>
-  <tr>
-    <td align="center">4</td>
-    <td align="center">Ulquiorra Cifer</td>
-    <td align="center">Emptiness</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">5</td>
-    <td align="center">Nnoitra Gilga</td>
-    <td align="center">Despair</td>
-    <td align="center">💀</td>
-  </tr>
-  <tr>
-    <td align="center">6</td>
-    <td align="center">Grimmjow Jaegerjaquez</td>
-    <td align="center">Destruction</td>
-    <td align="center">✅</td>
-  </tr>
-</table>
+<div align="center" class="fade-section" style="animation-delay: 1.2s;">
 
-⚉ Hōgyoku Evolution — Forms of Transcendence
-<table align="center">
-  <tr>
-    <td align="center"><b>Form</b></td>
-    <td align="center"><b>Appearance</b></td>
-    <td align="center"><b>Power Level</b></td>
-  </tr>
-  <tr>
-    <td align="center">Standard</td>
-    <td align="center">Glasses, Brown Hair</td>
-    <td align="center">Captain</td>
-  </tr>
-  <tr>
-    <td align="center">Post-Hōgyoku</td>
-    <td align="center">Slicked Back Hair</td>
-    <td align="center">Transcendent</td>
-  </tr>
-  <tr>
-    <td align="center">Chrysalis</td>
-    <td align="center">White Cocoon</td>
-    <td align="center">Evolving</td>
-  </tr>
-  <tr>
-    <td align="center">First Fusion</td>
-    <td align="center">White Armor</td>
-    <td align="center">Near-God</td>
-  </tr>
-  <tr>
-    <td align="center">Second Fusion</td>
-    <td align="center">Butterfly Wings</td>
-    <td align="center">Godlike</td>
-  </tr>
-  <tr>
-    <td align="center">Final Form</td>
-    <td align="center">Monster</td>
-    <td align="center">Ultimate</td>
-  </tr>
-</table>
+<div class="gradient-bar" style="width: 40%; margin: 40px auto; border-radius: 2px;"></div>
 
-⚉ Famous Quotes — Words of a God
-<table align="center">
-  <tr>
-    <td align="center"><b>Japanese</b></td>
-    <td align="center"><b>English</b></td>
-    <td align="center"><b>Context</b></td>
-  </tr>
-  <tr>
-    <td align="center">私は神になりたいのではない。神を超えたいのだ。</td>
-    <td align="center">"I do not wish to become God. I wish to surpass Him."</td>
-    <td align="center">Ambition</td>
-  </tr>
-  <tr>
-    <td align="center">絶望とは、完全に目を開いた状態である。</td>
-    <td align="center">"Despair is a state of having one's eyes fully open."</td>
-    <td align="center">Philosophy</td>
-  </tr>
-  <tr>
-    <td align="center">戦いとは、欺き合いである。</td>
-    <td align="center">"Battle is a matter of mutual deception."</td>
-    <td align="center">Strategy</td>
-  </tr>
-  <tr>
-    <td align="center">鏡に映る花の如く、水に映る月の如く。</td>
-    <td align="center">"Like the flower in the mirror, like the moon on the water."</td>
-    <td align="center">Kyōka Suigetsu</td>
-  </tr>
-</table>
+## <span class="glow-text" style="font-family: 'Courier New', monospace; font-size: 22px;">/// Connect ///</span>
 
-⚉ Contact — Spiritual Link
-<p align="center">
+<p style="margin-top: 15px;">
   <a href="https://t.me/arcnosixta">
-    <img src="https://img.shields.io/badge/TELEGRAM-7C3AED?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E1B4B"/>
+    <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111"/>
   </a>
   <a href="mailto:arcnosixta@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B"/>
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/>
   </a>
   <a href="https://github.com/arcnosixta">
-    <img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arcnosixta&label=REIATSU+LEVEL&color=7C3AED&style=for-the-badge&logo=eye&logoColor=white"/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,25:111111,50:222222,75:111111,100:000000&section=footer&animation=twinkling" width="100%"/>
+
+<p class="glow-text" style="font-family: 'Courier New', monospace; font-size: 16px; letter-spacing: 4px; margin-top: -60px;">
+  Built in the dark. Powered by code.
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1E1B4B,50:7C3AED,100:8B5CF6&section=footer&animation=twinkling"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=24&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=砕けよ、鏡花水月;Shatter.+Control.+Transcend.+%E2%9A%89" />
-</p>
+
+</div>
