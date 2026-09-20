@@ -9,7 +9,7 @@
 </p>
 <!-- Айзен с раскрытыми руками -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/NlObBJCUiYQAAAAC/aizen-sosuke.gif" width="480" style="border-radius: 20px; border: 4px solid #6D28D9; box-shadow: 0 0 50px #A855F7;"/>
+  <img src="files/aizen-hero.gif" width="460" style="border-radius: 20px; border: 4px solid #6D28D9; box-shadow: 0 0 50px #A855F7;"/>
 </p>
 <!-- Имя -->
 <p align="center">
