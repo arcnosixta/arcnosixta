@@ -102,7 +102,9 @@
 </p>
 ⬧ Music
 <p align="center">
-  <img src="files/music-equalizer.svg" alt="music equalizer"/>
+  <a href="https://open.spotify.com/track/6a7su3dkJJXidSuFiowJC2" target="_blank">
+    <img src="files/music-equalizer.svg" alt="Treachery — Aizen OST" title="Treachery (Bleach OST) — Shiro Sagisu"/>
+  </a>
 </p>
 ⬧ Contact
 <p align="center">
