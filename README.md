@@ -100,6 +100,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=4C1D95,A855F7,6D28D9"/>
 </p>
+⬧ Music
+<p align="center">
+  <img src="files/music-equalizer.svg" alt="music equalizer"/>
+</p>
 ⬧ Contact
 <p align="center">
   <a href="https://t.me/arcnosixta">
