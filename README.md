@@ -5,11 +5,11 @@
 </p>
 <!-- Приветствие -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=52&duration=2400&pause=2000&color=A855F7&center=true&vCenter=true&width=900&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E7%A7%81%E3%81%AEGitHub%E3%81%B8;Y%C5%8Dkoso+watashi+no+GitHub+%E2%80%9C;Welcome+to+my+GitHub" alt="Yokoso"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=52&duration=2400&pause=2000&color=A855F7&center=true&vCenter=true&width=900&lines=Y%C5%8Dkoso+watashi+no+GitHub+%E2%80%9C;Welcome+to+my+GitHub" alt="Yokoso"/>
 </p>
 <!-- Айзен с раскрытыми руками -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/SwV2xqbIfCEAAAAC/bleach-aizen-sosuke.gif" width="420" style="border-radius: 20px; border: 4px solid #6D28D9; box-shadow: 0 0 50px #A855F7;"/>
+  <img src="https://media1.tenor.com/m/NlObBJCUiYQAAAAC/aizen-sosuke.gif" width="480" style="border-radius: 20px; border: 4px solid #6D28D9; box-shadow: 0 0 50px #A855F7;"/>
 </p>
 <!-- Имя -->
 <p align="center">
@@ -60,7 +60,7 @@
 <table align="center">
   <tr>
     <td align="center" width="42%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=arcnosixta&repo=esep-web&theme=radical&hide_border=true&bg_color=0A0614&title_color=A855F7&icon_color=C084FC&text_color=ffffff&border_color=6D28D9" width="380"/>
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=arcnosixta&repo=esep-web&theme=radical&hide_border=true&bg_color=0A0614&title_color=A855F7&icon_color=C084FC&text_color=ffffff&border_color=6D28D9" width="380"/>
     </td>
     <td align="left" width="58%">
       <h3 align="center">◈ ESEP — платформа онлайн-оценки ◈</h3>
@@ -85,17 +85,17 @@
 </table>
 ⬧ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=0A0614&title_color=A855F7&icon_color=C084FC&text_color=ffffff&border_color=6D28D9&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=arcnosixta&show_icons=true&theme=radical&hide_border=true&bg_color=0A0614&title_color=A855F7&icon_color=C084FC&text_color=ffffff&border_color=6D28D9&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcnosixta&theme=radical&hide_border=true&background=0A0614&stroke=A855F7&fire=C084FC&ring=6D28D9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=C084FC&dates=E9D5FF" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=0A0614&title_color=A855F7&text_color=ffffff&border_color=6D28D9" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arcnosixta&layout=compact&theme=radical&hide_border=true&bg_color=0A0614&title_color=A855F7&text_color=ffffff&border_color=6D28D9" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcnosixta&bg_color=0A0614&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true&radius=10" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=arcnosixta&bg_color=0A0614&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true&radius=10" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arcnosixta&theme=dracula&no-frame=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=arcnosixta&theme=dracula&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=4C1D95,A855F7,6D28D9"/>
